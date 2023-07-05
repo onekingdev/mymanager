@@ -1,0 +1,12 @@
+[
+{ "_id" : { "$oid" : "61d417b4da2d1d1abed369bd" }, "leads_category" : "leads_category", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-01-04T09:47:32.631+0000" }, "updatedAt" : { "$date" : "2022-01-04T09:47:32.631+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61b613d905e8396e1aafbeb5" }, "leads_category" : "Google", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2021-12-12T15:23:05.664+0000" }, "updatedAt" : { "$date" : "2021-12-12T15:23:05.664+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61c0f811c4e4b94ee0b5374a" }, "leads_category" : "instragram", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2021-12-20T21:39:29.296+0000" }, "updatedAt" : { "$date" : "2021-12-20T21:39:29.296+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61d944ba7845b944f27e0641" }, "leads_category" : "fvgbh", "userId" : "61d805165ea1523fdbc8689f", "createdAt" : { "$date" : "2022-01-08T08:00:58.239+0000" }, "updatedAt" : { "$date" : "2022-01-08T08:00:58.239+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61d418bfda2d1d1abed369fc" }, "leads_category" : "hi", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-01-04T09:51:59.284+0000" }, "updatedAt" : { "$date" : "2022-01-04T09:51:59.284+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61cdad2c245fe455df46ab5b" }, "leads_category" : "Fb", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2021-12-30T12:59:24.526+0000" }, "updatedAt" : { "$date" : "2021-12-30T12:59:24.526+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61c0f835c4e4b94ee0b53757" }, "leads_category" : "fb", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2021-12-20T21:40:05.676+0000" }, "updatedAt" : { "$date" : "2021-12-21T12:09:05.103+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61cc80bb3446cf53b4e2646e" }, "leads_category" : "testing", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2021-12-29T15:37:31.276+0000" }, "updatedAt" : { "$date" : "2022-01-04T10:50:07.030+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61c0d324c4e4b94ee0b5222a" }, "leads_category" : "intragram", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2021-12-20T19:01:56.193+0000" }, "updatedAt" : { "$date" : "2021-12-20T19:01:56.193+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61f9d6f4346c039fc38c2e81" }, "leads_category" : "google", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-02T00:57:24.242+0000" }, "updatedAt" : { "$date" : "2022-02-02T00:57:24.242+0000" }, "__v" : 0 }
+]

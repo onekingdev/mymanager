@@ -1,0 +1,188 @@
+/*================================================================================
+	Item Name: MyManager - Vuejs, HTML & Laravel Admin Dashboard Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.client-info-set {
+  display: flex;
+  flex-direction: column;
+}
+
+.client-info-set span:nth-child(2) {
+  font-weight: 700;
+}
+.formBuilder-table > .sc-fznJRM > .sc-fzoiQi > .sc-AxjAm > .rdt_TableHead > .rdt_TableHeadRow {
+  min-height: 35px !important;
+  background-color: #f3f2f7 !important;
+  border-top: 1px solid;
+  border-color: #ebe9f1;
+}
+.formBuilder-pagination > .react-paginate {
+  width: 100px !important;
+}
+.cic-dp {
+  position: relative;
+}
+
+.cic-photo-edit {
+  position: absolute;
+  top: 25%;
+  left: 1%;
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cic-photo-edit:hover {
+  background-color: rgba(230, 230, 230, 0.452);
+}
+
+.cic-photo-edit-icon {
+  color: #7468f0;
+}
+
+.cic-eye-icon {
+  cursor: pointer;
+  color: #7468f0;
+}
+
+.table-rating {
+  height: 30px;
+  width: 30px;
+  background-color: rgba(115, 104, 240, 0.2039215686);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-rating span {
+  color: #7468f0;
+  font-weight: 600;
+}
+
+.date-done {
+  padding: 1px;
+  border: 1px solid #03c22d;
+  border-radius: 50%;
+}
+
+.date-miss {
+  padding: 1px;
+  border: 1px solid #cf0505;
+  border-radius: 50%;
+}
+
+.circle {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  background-color: green;
+  border-radius: 50%;
+}
+
+.text {
+  margin: auto;
+  color: white;
+  font-weight: bold;
+  font-size: small;
+}
+
+.filter-input {
+  width: 250px;
+} /*# sourceMappingURL=style.css.map */
+
+.leadsources > .social > .list-group-item.active {
+  color: #174ae7 !important;
+  border-left: 2px solid !important;
+  background-color: transparent !important;
+}
+
+.leadsources > .social > .list-group-item:hover {
+  color: #174ae7 !important;
+  /* border-left: 3px solid !important; */
+  background-color: transparent !important;
+}
+
+.leadsources > .social > .list-group-item {
+  border: none !important;
+  padding: 0.5rem 1.25rem !important;
+}
+
+.leadsources > .month > .list-group-item.active {
+  z-index: 0;
+  color: #174ae7 !important;
+  /* border-left: 2px solid !important; */
+  background-color: transparent !important;
+}
+
+.leadsources > .month > .list-group-item:hover {
+  color: #174ae7 !important;
+  /* border-left: 3px solid !important; */
+  background-color: transparent !important;
+}
+
+.leadsources > .month > .list-group-item {
+  border: none !important;
+  padding: 0.5rem 1.25rem !important;
+}
+
+.contact-sidebar > li.active {
+  color: #174ae7 !important;
+  border-left: 2px solid !important;
+  background-color: transparent !important;
+}
+
+.contact-sidebar > .li:hover {
+  color: #174ae7 !important;
+  /* border-left: 3px solid !important; */
+  background-color: transparent !important;
+}
+
+.contact-sidebar  {
+ border-radius: 0 !important;
+}
+
+.contact-sidebar > li {
+  border: none !important;
+  padding: 0.5rem 1.25rem !important;
+}
+
+.contact-sidebar-types > li.active {
+  color: #174ae7 !important;
+  /* border-left: 2px solid !important; */
+  background-color: transparent !important;
+}
+.contact-sidebar-types > li:hover {
+  color: #174ae7 !important;
+  background-color: transparent !important;
+}
+.contact-sidebar-types > li{
+  border: none !important;
+  padding: 0.5rem 1.25rem !important;
+}
+
+.wrapper-borders {
+  /* padding: 5px; */
+  border-left: 1px solid;
+  border-right: 1px solid;
+}
+
+.pl-year-data {
+  width: 200px;
+}
+
+.marketing-chat-user::-webkit-scrollbar{
+  width: 1px !important;
+  /* overflow: hidden; */
+}

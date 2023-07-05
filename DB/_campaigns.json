@@ -1,0 +1,4 @@
+[
+{ "_id" : { "$oid" : "642d5596bd2effd721424364" }, "campaign_name" : "xas", "status" : "Inactive", "position" : 0, "createdAt" : { "$date" : "2023-04-05T11:03:50.911+0000" }, "updatedAt" : { "$date" : "2023-04-05T11:03:50.911+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "64376400a653cb3e2fff91c7" }, "campaign_name" : "asdasd", "status" : "Inactive", "position" : 0, "createdAt" : { "$date" : "2023-04-13T02:08:00.748+0000" }, "updatedAt" : { "$date" : "2023-04-13T02:08:00.748+0000" }, "__v" : 0 }
+]

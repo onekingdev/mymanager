@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "644d1aaf60d8c4a2e738a68e" }, "hide_noti_mobile" : false, "show_on_top" : false, "position_noti" : false, "noti_theme" : false, "delay_first_noti" : "1", "display_each_noti" : "2", "space_each_noti" : "3", "createdAt" : { "$date" : "2023-04-29T13:25:03.194+0000" }, "updatedAt" : { "$date" : "2023-04-29T13:25:03.194+0000" }, "__v" : 0 }
+]

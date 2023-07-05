@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "641eb4ead1a25e6b8a720627" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "totalSaleProjected" : 84, "totalPercentageProjected" : 0, "totalLaborProjected" : 0, "projectedLabors" : [ 0, 0, 0, 0, 0, 0, 0 ], "projectedSales" : [ 0, 0, 0, 0, 0, 0, 0 ], "faceRecog" : true, "needPunch" : true, "limitMins" : 15, "__v" : 2 }
+]

@@ -1,0 +1,7 @@
+[
+{ "_id" : { "$oid" : "640ce3d699c70e605f14d690" }, "userId" : { "$oid" : "63e46f6673473f895555d907" }, "category" : "backend", "color" : "#004dcf", "isDelete" : false, "createdAt" : { "$date" : "2023-03-11T20:25:58.881+0000" }, "updatedAt" : { "$date" : "2023-03-12T01:19:26.461+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "640ce53699c70e605f14d7d7" }, "userId" : { "$oid" : "63e46f6673473f895555d907" }, "category" : "Frontend", "color" : "#fef3bd", "isDelete" : false, "createdAt" : { "$date" : "2023-03-11T20:31:50.930+0000" }, "updatedAt" : { "$date" : "2023-03-12T01:19:38.475+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "64113500c5ac7fb66155c221" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "category" : "Our ", "color" : "#555555", "isDelete" : false, "createdAt" : { "$date" : "2023-03-15T03:01:20.913+0000" }, "updatedAt" : { "$date" : "2023-03-27T04:23:23.052+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6416fefb829b998f286bc2ca" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "category" : "On the Floor", "color" : "#555555", "isDelete" : false, "createdAt" : { "$date" : "2023-03-19T12:24:27.899+0000" }, "updatedAt" : { "$date" : "2023-03-19T12:24:27.899+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "641a43eb660b4469b6cea0e1" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "category" : "ON THE FLOOR", "color" : "#555555", "isDelete" : false, "createdAt" : { "$date" : "2023-03-21T23:55:23.224+0000" }, "updatedAt" : { "$date" : "2023-03-21T23:55:23.224+0000" }, "__v" : 0 }
+]

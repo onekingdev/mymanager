@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "61922d520669e08edbd6f23e" }, "template" : [ { "$oid" : "6192b7caf4c9d2b0f78f5296" }, { "$oid" : "6192b7caf4c9d2b0f78f5296" }, { "$oid" : "619aa9802e05c432a944b0c9" }, { "$oid" : "619abaa92e05c432a944b5b4" }, { "$oid" : "619ac7fd725120346e95da97" } ], "folderName" : "demoFOlder1", "createdAt" : { "$date" : "2021-11-15T09:50:10.764+0000" }, "updatedAt" : { "$date" : "2021-11-21T22:28:13.248+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "619b68e04342996d389a5e97" }, "template" : [ { "$oid" : "619b694c4342996d389a5ea4" }, { "$oid" : "619b69514342996d389a5eb0" } ], "folderName" : "new folder for testing", "createdAt" : { "$date" : "2021-11-22T09:54:40.471+0000" }, "updatedAt" : { "$date" : "2021-11-22T15:21:50.207+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "61922d610669e08edbd6f243" }, "template" : [ { "$oid" : "619561a2758236f7a2d6ccc5" }, { "$oid" : "619ab52b2e05c432a944b4f3" } ], "folderName" : "demoFOlder2", "createdAt" : { "$date" : "2021-11-15T09:50:25.995+0000" }, "updatedAt" : { "$date" : "2021-11-21T21:07:55.443+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6197d3858f65e00f836f25c7" }, "template" : [ { "$oid" : "6197d39d8f65e00f836f25d7" } ], "folderName" : "dsfss", "createdAt" : { "$date" : "2021-11-19T16:40:37.246+0000" }, "updatedAt" : { "$date" : "2021-11-19T16:41:01.849+0000" }, "__v" : 0 }
+]

@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "620a05942c29ee335e895917" }, "template" : [ { "$oid" : "620a105a5d71ad3dd07b8059" }, { "$oid" : "620a12849b3370425fd53333" }, { "$oid" : "620e18144f60597926610786" }, { "$oid" : "620e28e0f566b759280c13f6" } ], "folderName" : "SYSTEM dEMO11", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-14T07:32:36.835+0000" }, "updatedAt" : { "$date" : "2022-02-17T10:52:16.583+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6214fd21d027043deda13fda" }, "template" : [  ], "folderName" : "test", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-22T15:11:29.291+0000" }, "updatedAt" : { "$date" : "2022-02-22T15:11:29.291+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "620a295b81438462000bcfdd" }, "template" : [  ], "folderName" : "SYSTEM dEMO", "userId" : "6138893333c9482cb41d88d5", "createdAt" : { "$date" : "2022-02-14T10:05:15.160+0000" }, "updatedAt" : { "$date" : "2022-02-14T10:05:15.160+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "620e2c1ef566b759280c16b5" }, "template" : [ { "$oid" : "620e2c24f566b759280c16bb" } ], "folderName" : "sdfdsf", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-17T11:06:06.167+0000" }, "updatedAt" : { "$date" : "2022-02-17T11:06:12.655+0000" }, "__v" : 0 }
+]

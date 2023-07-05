@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "645940afa2a80154b685fe34" }, "userId" : "6394e22877a382e42b5302a9", "products" : [ { "$oid" : "64477f62c5303b338166dfd6" }, { "$oid" : "64477f62c5303b338166dfd6" }, { "$oid" : "645530c67f5a1a080a812c1c" } ], "memberships" : [  ], "userType" : "super-admin", "createdAt" : { "$date" : "2023-05-08T18:34:23.838+0000" }, "updatedAt" : { "$date" : "2023-05-11T21:15:13.502+0000" }, "__v" : 0 }
+]

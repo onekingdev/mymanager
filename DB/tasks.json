@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "642b654a601f3b2ee1a6956c" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "taskName" : "Test checklist", "startDate" : { "$date" : "2023-04-04T12:00:00.000+0000" }, "endDate" : { "$date" : "2023-04-06T12:00:00.000+0000" }, "points" : 0, "repeatType" : "Day", "repeat" : [ "20230404", "20230405", "20230406" ], "assignee" : { "value" : { "$oid" : "641bc8e0017b2ee59941c22c" }, "label" : "tadashi", "img" : "" }, "emailNotification" : true, "email" : "glassespiger@gmail.com", "allowAsNa" : false, "isActive" : true, "isDelete" : false, "createdAt" : { "$date" : "2023-04-03T23:46:18.777+0000" }, "updatedAt" : { "$date" : "2023-04-03T23:46:18.777+0000" }, "__v" : 0 }
+]

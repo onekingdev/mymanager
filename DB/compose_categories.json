@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "6216a4eeb8d0274e7ccb1a25" }, "category" : "compose", "folder" : [  ], "categoryName" : "dfd", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-23T21:19:42.796+0000" }, "updatedAt" : { "$date" : "2022-02-23T21:19:42.796+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "620823abec88de06f0e80afa" }, "category" : "compose", "folder" : [ { "$oid" : "620e0f63e82266585c47fb98" } ], "categoryName" : "hello", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-12T21:16:27.270+0000" }, "updatedAt" : { "$date" : "2022-02-17T09:03:31.998+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "620a34cd4f9e861ce122c418" }, "category" : "compose", "folder" : [ { "$oid" : "620a396ae02f18795d4e185e" } ], "categoryName" : "test", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-14T10:54:05.745+0000" }, "updatedAt" : { "$date" : "2022-02-17T09:03:55.353+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "63be77e4574b558dd90b65dd" }, "categoryName" : "firstCompose", "category" : "compose", "folder" : [  ], "userId" : "6394e2d877a382e42b5302c1", "createdAt" : { "$date" : "2023-01-11T08:48:36.717+0000" }, "updatedAt" : { "$date" : "2023-01-11T08:48:36.717+0000" }, "__v" : 0 }
+]

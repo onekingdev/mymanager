@@ -1,0 +1,5 @@
+[
+{ "_id" : { "$oid" : "64076adc07321a02d2aaf519" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "videoUrl" : "youtube.com", "videoName" : "asdasd", "isDeleted" : false, "createdAt" : { "$date" : "2023-03-07T16:48:28.611+0000" }, "updatedAt" : { "$date" : "2023-03-07T16:48:28.611+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6453cc6f45de021e851f0c38" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "videoUrl" : "https://youtu.be/1KuQCmqARe0", "videoName" : "Belt tying", "isDeleted" : false, "createdAt" : { "$date" : "2023-05-04T15:17:03.962+0000" }, "updatedAt" : { "$date" : "2023-05-04T15:17:03.962+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "645c1f1d7452b65b15a39e9f" }, "userId" : { "$oid" : "63e7f9022fbac2b46ebda77c" }, "videoUrl" : "httpp://testing", "videoName" : "this is lesson 1", "isDeleted" : false, "createdAt" : { "$date" : "2023-05-10T22:47:57.691+0000" }, "updatedAt" : { "$date" : "2023-05-10T22:47:57.691+0000" }, "__v" : 0 }
+]

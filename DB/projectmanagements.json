@@ -1,0 +1,5 @@
+[
+{ "_id" : { "$oid" : "63e82b8a2fbac2b46ebda97a" }, "userID" : { "$oid" : "63e46f6673473f895555d907" }, "otherUser" : [  ], "title" : "oool", "rowData" : [ { "project" : "sadf", "timeline" : { "$date" : "2023-02-11T23:58:04.658+0000" }, "status" : [  ], "people" : [  ], "_id" : { "$oid" : "63e82b8c2fbac2b46ebda97f" } }, { "status" : [  ], "people" : [  ], "_id" : { "$oid" : "63e82bac2fbac2b46ebda98a" } }, { "project" : "fdsa", "date" : { "$date" : "2023-02-22T19:45:36.368+0000" }, "manager" : { "userID" : "", "value" : "" }, "_id" : { "$oid" : "63f670e0d6509cbc346e0346" } } ], "__v" : 0 },
+{ "_id" : { "$oid" : "63f670ebd6509cbc346e035c" }, "userID" : { "$oid" : "63e46f6673473f895555d907" }, "otherUser" : [  ], "title" : "asdf", "rowData" : [  ], "__v" : 0 },
+{ "_id" : { "$oid" : "63fa08fd4d4f0e4917c2f4e7" }, "userID" : { "$oid" : "6394e22877a382e42b5302a9" }, "otherUser" : [  ], "title" : "asdasd", "rowData" : [  ], "__v" : 0 }
+]

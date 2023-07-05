@@ -1,0 +1,650 @@
+.hover:hover {
+  opacity: 0.7;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.pillButton {
+  background-color: blue;
+  color: white;
+  border-width: 1px;
+  border-radius: 50rem !important;
+}
+.blueButton {
+  background-color: blue;
+  color: white;
+  border-width: 1px;
+  border-radius: 6px !important;
+}
+.flatButton {
+  background-color: #0174c7;
+  color: white;
+  border-width: 1px;
+  border-radius: 6px !important;
+}
+
+.lightGreenButton {
+  background-color: #9fb747;
+  color: white;
+  /* border-radius: 16px !important; */
+  border-style: solid;
+  border-color: #829344;
+  border-width: 1px;
+  border-radius: 6px !important;
+}
+.greenButton {
+  background-color: #31a05c;
+  color: white;
+  border-style: solid;
+  border-color: #74ad8c;
+  border-width: 1px;
+  border-radius: 6px !important;
+}
+.orangeButton {
+  background-color: #f5ac43;
+  color: white;
+  border-color: #e4d4ae;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 6px !important;
+}
+.orangeDarkButton {
+  background-color: #fdc055;
+  color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e0c185;
+  border-radius: 6px !important;
+}
+.lightRedButton {
+  background-color: #e15c39;
+  color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #b7644f;
+  border-radius: 6px !important;
+}
+.lightblueButton {
+  background-color: #9999ff;
+  color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #b7644f;
+  border-radius: 6px !important;
+}
+.lightGreyButton {
+  background-color: #c3c3c3;
+  color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-radius: 6px !important;
+}
+.blackButton {
+  background-color: black;
+  color: white;
+  border-radius: 6px !important;
+}
+.blue3dButton {
+  background-color: #0174c7;
+  /* background-image: -webkit-linear-gradient(283deg, rgba(255, 255, 255, 0.1) 50%, transparent 55%),-webkit-linear-gradient(top, rgba(255, 255, 255, 0.15), transparent); */
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px #163772 inset, 0 0 0 5px rgba(255, 255, 255, 0.15) inset, 0 4px 0 0 #333797,
+    0 3px 0 1px rgba(0, 0, 0, 0.4), 0 4px 4px 1px rgba(0, 0, 0, 0.5);
+  color: white !important;
+  font-weight: bold;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+  text-decoration: none !important;
+  border-width: 1px;
+}
+.lightGreen3dButton {
+  background-color: #9fb747;
+  /* background-image: -webkit-linear-gradient(283deg, rgba(255, 255, 255, 0.1) 50%, transparent 55%),-webkit-linear-gradient(top, rgba(255, 255, 255, 0.15), transparent); */
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px #9fb747 inset, 0 0 0 5px rgba(255, 255, 255, 0.15) inset, 0 4px 0 0 #81953a,
+    0 3px 0 1px rgba(248, 127, 127, 0.4), 0 4px 4px 1px rgba(0, 0, 0, 0.5);
+  color: white !important;
+  font-weight: bold;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+  text-decoration: none !important;
+  border-width: 1px;
+}
+.green3dButton {
+  background-color: #31a05c;
+  /* background-image: -webkit-linear-gradient(283deg, rgba(255, 255, 255, 0.1) 50%, transparent 55%),-webkit-linear-gradient(top, rgba(255, 255, 255, 0.15), transparent); */
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px #31a05c inset, 0 0 0 5px rgba(255, 255, 255, 0.15) inset, 0 4px 0 0 #27814e,
+    0 3px 0 1px rgba(248, 127, 127, 0.4), 0 4px 4px 1px rgba(0, 0, 0, 0.5);
+  color: white !important;
+  font-weight: bold;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+  text-decoration: none !important;
+  border-width: 1px;
+}
+.orange3dButton {
+  background-color: #f5ac43;
+  /* background-image: -webkit-linear-gradient(283deg, rgba(255, 255, 255, 0.1) 50%, transparent 55%),-webkit-linear-gradient(top, rgba(255, 255, 255, 0.15), transparent); */
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px #f5ac43 inset, 0 0 0 5px rgba(255, 255, 255, 0.15) inset, 0 4px 0 0 #c98e37,
+    0 3px 0 1px rgba(248, 127, 127, 0.4), 0 4px 4px 1px rgba(0, 0, 0, 0.5);
+  color: white !important;
+  font-weight: bold;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+  text-decoration: none !important;
+  border-width: 1px;
+}
+.darkOrange3dButton {
+  background-color: #fdc055;
+  /* background-image: -webkit-linear-gradient(283deg, rgba(255, 255, 255, 0.1) 50%, transparent 55%),-webkit-linear-gradient(top, rgba(255, 255, 255, 0.15), transparent); */
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px #fdc055 inset, 0 0 0 5px rgba(255, 255, 255, 0.15) inset, 0 4px 0 0 #d19b43,
+    0 3px 0 1px rgba(248, 127, 127, 0.4), 0 4px 4px 1px rgba(0, 0, 0, 0.5);
+  color: white !important;
+  font-weight: bold;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+  text-decoration: none !important;
+  border-width: 1px;
+}
+/* .defaultinput {
+  border-color: yellow;
+  border-width: 5px;
+
+} */
+
+.Default-Select-Input {
+  width: 100% !important;
+  background: none !important;
+  box-shadow: 0 0 1px #ccc;
+  color: #c7c7c7 !important;
+  padding: 10px 40px;
+  margin-top: 1vh;
+  border-radius: 5px;
+  border: 1px solid #dadada;
+}
+.Rounded-Select-Input {
+  width: 100% !important;
+  background: none !important;
+  box-shadow: 0 -1px 3px -1px #ccc;
+  color: #d1d1d1 !important;
+  padding: 10px 40px;
+  margin-top: 2vh;
+  border-radius: 5px;
+  border: 1px solid #dddddd;
+}
+.Basic-Select-Input {
+  width: 100% !important;
+  background: none !important;
+  box-shadow: 0 0 0px #ccc;
+  color: #cdcdcd !important;
+  padding: 10px 40px;
+  margin-top: 2vh;
+  border-radius: 5px;
+  border: 1px solid #d8d8d8;
+}
+.Grey-Border-Select-Input {
+  width: 100% !important;
+  background: none !important;
+  box-shadow: 0 0 0 1px #ccc;
+  color: #c9c9c9 !important;
+  padding: 10px 40px;
+  margin-top: 2vh;
+  border-radius: 5px;
+  border: 1px solid #e3e3e3;
+}
+.Light-Grey-Select-Input {
+  width: 100% !important;
+  background: none !important;
+  box-shadow: 0 0 2px 0px #ccc;
+  color: #cdcdcd !important;
+  padding: 10px 40px;
+  margin-top: 2vh;
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
+}
+.Border-White-Select-Input {
+  width: 100% !important;
+  background: none !important;
+  box-shadow: 0 0 3px 2px #e1e1df;
+  color: #adadad !important;
+  padding: 10px 40px;
+  margin-top: 2vh;
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
+  font-weight: 900;
+}
+.Simple-Select-Input {
+  width: 100% !important;
+  background: none !important;
+  box-shadow: 0px 1px 3px 0px #ccc;
+  color: #b6b6b6 !important;
+  padding: 10px 40px;
+  margin-top: 2vh;
+  border-radius: 5px;
+  border: 1px solid #e2e2e2;
+}
+.Gradient-Select-Input {
+  width: 100% !important;
+  background-color: #f6f6f6;
+  box-shadow: 1px 2px 3px 0px #ccc;
+  color: #b6b6b6 !important;
+  padding: 10px 40px;
+  margin-top: 2vh;
+  border-radius: 5px;
+  border: 1px solid #e2e2e2;
+}
+.Simple-Clean-Select-Input {
+  width: 100% !important;
+  background: none !important;
+  box-shadow: 0px 0px 3px 1px #8aaccf;
+  color: #c3c3c3 !important;
+  padding: 10px 40px;
+  margin-top: 2vh;
+  border-radius: 5px;
+  border: 1px solid #8aaccf;
+}
+
+.Gray-Label-Input {
+  width: 100% !important;
+  background: #fbecec !important;
+  box-shadow: 0 0 0 1px #ccc;
+  /* color: #c9c9c9 !important; */
+  /* margin-top: 2vh; */
+  border-radius: 3px;
+  /* border: 1px solid #e3e3e3; */
+  font-family: sans-serif;
+  padding: 20px;
+}
+/* address themes css */
+
+.Label-Clean-Input {
+  width: 100% !important;
+  background: none !important;
+  box-shadow: 0px 0px 3px 1px #8aaccf;
+  font-family: serif;
+  /* color: #c3c3c3 !important; */
+  /* border-radius: 5px; */
+  /* border: 1px solid #8aaccf; */
+  padding: 20px;
+}
+.Color-Label-Input {
+  font-family: system-ui;
+  width: 100% !important;
+  /* background: none !important; */
+  box-shadow: 0px 0px 3px 1px #8aaccf;
+  padding: 20px;
+  background-color: #f6f6f6;
+  box-shadow: 1px 2px 3px 0px #ccc;
+  color: #b6b6b6 !important;
+}
+
+/* image themes css */
+
+.PillImg {
+  border-radius: 115px;
+  background-color: #e1e5e6;
+  border-width: 5px;
+}
+
+.Grey-Border-image {
+  background-color: #f4f4f4;
+  box-shadow: 0 0 0 1px #ccc;
+  /* color: #c9c9c9 !important; */
+  border-radius: 4px;
+  border: 2px solid rgb(78, 76, 76);
+}
+.Border-White-image {
+  background: none !important;
+  box-shadow: 0 0 3px 2px #e1e1df;
+  /* color: #adadad !important; */
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
+}
+.Simple-select-image {
+  background-color: #e1e5e6;
+  box-shadow: 0px 0px 3px 1px #8aaccf;
+  /* color: #c3c3c3 !important; */
+  border-radius: 5px;
+  border: 4px solid white;
+  /* border: 1px solid #8aaccf; */
+}
+.Light-Grey-Image {
+  box-shadow: 0 0 2px 0px #ccc;
+  /* color: #cdcdcd !important; */
+  background-color: #e1e5e6;
+  border: 1px solid #e0e0e0;
+}
+.Black-Border-Image {
+  background-color: #e1e5e6;
+  border: 2px solid #818181;
+}
+.Gray-Border-Image {
+  background-color: #e1e5e6;
+  border: 1px solid #3a3232;
+  border-radius: 8px;
+}
+.GraySpace-Border-Image {
+  background-color: #e1e5e6;
+  /* border: 1px solid #3a3232; */
+  border: 4px solid white;
+  border-radius: 5px;
+  box-shadow: 0 0 0 1px #ccc;
+}
+.Rounded-Dark-Image {
+  background-color: #e1e5e6;
+  border: 2px solid #818181;
+  border-radius: 5px;
+}
+
+/* countdown themes css */
+.BlackBg-Countdown {
+  background-color: black;
+  padding: 12px;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.BlackBg-Countdown p.count-down-title {
+  background-color: black;
+  border-radius: 35px;
+  padding: 15px;
+  margin-bottom: 15px;
+  color: white;
+  border: 5px solid white;
+}
+
+.Black-White-Countdown {
+  padding: 12px;
+  color: black;
+  border-radius: 5px;
+}
+.Black-White-Countdown p.count-down-title {
+  background-color: black;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.Yellow-Black-Countdown {
+  padding: 12px;
+  color: black;
+  border-radius: 5px;
+}
+.Yellow-Black-Countdown p.count-down-title {
+  background-color: yellow;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  color: black;
+}
+
+.Blue-White-Countdown {
+  padding: 12px;
+  color: black;
+  border-radius: 5px;
+}
+.Blue-White-Countdown p.count-down-title {
+  background-color: blue;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  color: White;
+}
+
+.Green-Black-Countdown {
+  padding: 12px;
+  color: black;
+  border-radius: 5px;
+}
+.Green-Black-Countdown p.count-down-title {
+  background-color: green;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  color: Black;
+}
+.Red-Black-Countdown {
+  padding: 12px;
+  color: black;
+  border-radius: 5px;
+}
+.Red-Black-Countdown p.count-down-title {
+  background-color: red;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  color: Black;
+}
+
+.RedRound-Black-Countdown {
+  padding: 12px;
+  color: black;
+  border-radius: 5px;
+}
+.RedRound-Black-Countdown p.count-down-title {
+  background-color: red;
+  /* box-shadow: 0 0 0 1px #9fb747 inset, 0 0 0 5px rgba(255, 255, 255, 0.15) inset, 0 4px 0 0 #81953a,
+    0 3px 0 1px rgba(248, 127, 127, 0.4), 0 4px 4px 1px rgba(0, 0, 0, 0.5); */
+  border-radius: 45px;
+  box-shadow: 0 0px 3px 1px #232222;
+  padding: 25px;
+  margin-bottom: 15px;
+  color: Black;
+}
+
+.GreenRound-Black-Countdown {
+  padding: 12px;
+  color: black;
+  border-radius: 5px;
+}
+.GreenRound-Black-Countdown p.count-down-title {
+  background-color: #31a05c;
+  border-radius: 45px;
+  /* box-shadow: 0 0px 3px 1px #232222; */
+  padding: 25px;
+  margin-bottom: 15px;
+  color: Black;
+  border: 3px solid #df9226;
+}
+
+.YellowRound-Black-Countdown {
+  padding: 12px;
+  color: black;
+  border-radius: 5px;
+}
+.YellowRound-Black-Countdown p.count-down-title {
+  background-color: yellow;
+  border-radius: 45px;
+  /* box-shadow: 0 0px 3px 1px #232222; */
+  padding: 25px;
+  margin-bottom: 15px;
+  color: Black;
+  border: 3px solid #df9226;
+}
+
+.BlackBorder-Countdown {
+  padding: 12px;
+  color: gray;
+  border-radius: 5px;
+}
+.BlackBorder-Countdown p.count-down-title {
+  background-color: white;
+  border-radius: 45px;
+  /* box-shadow: 0 0px 3px 1px #232222; */
+  padding: 25px;
+  margin-bottom: 15px;
+  color: black;
+  border: 5px solid black;
+}
+
+.BlueBorder-Countdown {
+  padding: 12px;
+  color: gray;
+  border-radius: 5px;
+}
+.BlueBorder-Countdown p.count-down-title {
+  background-color: white;
+  border-radius: 45px;
+  /* box-shadow: 0 0px 3px 1px #232222; */
+  padding: 25px;
+  margin-bottom: 15px;
+  color: blue;
+  border: 5px solid blue;
+}
+
+.RedBorder-Countdown {
+  padding: 12px;
+  color: gray;
+  border-radius: 5px;
+}
+.RedBorder-Countdown p.count-down-title {
+  background-color: white;
+  border-radius: 45px;
+  /* box-shadow: 0 0px 3px 1px #232222; */
+  padding: 25px;
+  margin-bottom: 15px;
+  color: red;
+  border: 5px solid red;
+}
+.BorderShadow-Countdown {
+  /* width: 100% !important; */
+  /* background: none !important; */
+  /* box-shadow: 0 0 3px 2px #e1e1df; */
+  /* color: #adadad !important; */
+  padding: 12px;
+  border-radius: 5px;
+  /* border: 1px solid #e0e0e0; */
+}
+.BorderShadow-Countdown p.count-down-title {
+  box-shadow: 0 0 3px 2px #e1e1df;
+  border: 5px solid #e0e0e0;
+  border-radius: 45px;
+  padding: 25px;
+}
+
+.circle-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+}
+.circle-Countdown-BlackBGfull {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  border: 3px solid white;
+}
+.circle-Countdown-BlackBG {
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  color: white;
+  margin: 0 10px;
+  background-color: black;
+}
+.circle-Countdown-YellowBG {
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  margin: 0 10px;
+  background-color: yellow;
+}
+.circle-Countdown-BlueBG {
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  margin: 0 10px;
+  background-color: blue;
+}
+.circle-Countdown-GreenBG {
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  margin: 0 10px;
+  background-color: green;
+}
+.circle-Countdown-RedBG {
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  margin: 0 10px;
+  background-color: red;
+}
+.circle-Countdown-Green {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  background-color: #31a05c;
+  border: 3px solid #df9226;
+}
+.circle-Countdown-BgRed {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  background-color: red;
+  box-shadow: 0 0px 3px 1px #232222;
+}
+.circle-Countdown-Yellow {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  background-color: yellow;
+  border: 3px solid #df9226;
+}
+.circle-Countdown-White {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  background-color: White;
+  border: 3px solid black;
+}
+.circle-Countdown-Blue {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  background-color: white;
+  border: 3px solid blue;
+}
+.circle-Countdown-Red {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  background-color: White;
+  border: 3px solid red;
+}
+.circle-Countdown-Shadow {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  background-color: White;
+  box-shadow: 0 0 3px 2px #e1e1df;
+  color: #adadad !important;
+  border: 1px solid #e0e0e0;
+}
+
+.num {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.product-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product {
+  flex: 1;
+  min-width: 25%;
+}
+
+.bg-image{
+  background-repeat: no-repeat;
+  background-size:cover ;
+}

@@ -1,0 +1,42 @@
+@import '../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../@core/scss/base/components/include';
+
+.scanner {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  .scanner-title {
+    padding: 1rem;
+    border-bottom: 1px solid $border-color;
+  }
+  .scanner-main-part {
+    width: 100%;
+    height: calc(100% - 4.5rem);
+    align-items: center;
+    justify-content: center;
+    padding-inline: 25%;
+    .scan-video {
+      width: 100%;
+    }
+    .scan-result {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      .scan-result-title {
+        text-align: center;
+        width: 100%;
+        font-size: 20px;
+        font-weight: 600;
+      }
+      .scan-result-url {
+        text-align: center;
+        width: 100%;
+        font-size: 18px;
+        font-weight: 600;
+      }
+    }
+  }
+}

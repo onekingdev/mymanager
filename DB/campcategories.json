@@ -1,0 +1,11 @@
+[
+{ "_id" : { "$oid" : "6409d5053516fddc922f01bf" }, "name" : "Complete Registration", "createdAt" : { "$date" : "2023-03-09T12:45:57.036+0000" }, "updatedAt" : { "$date" : "2023-03-09T12:45:57.036+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6409d79a012524fbcdccb5dd" }, "name" : "Registration", "createdAt" : { "$date" : "2023-03-09T12:56:58.770+0000" }, "updatedAt" : { "$date" : "2023-03-09T12:56:58.770+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6412831c5573c8ffc8b806db" }, "name" : "smith", "createdAt" : { "$date" : "2023-03-16T02:46:52.247+0000" }, "updatedAt" : { "$date" : "2023-03-16T02:46:52.247+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "641454132d16e4c83f74c227" }, "name" : "test category", "createdAt" : { "$date" : "2023-03-17T11:50:43.780+0000" }, "updatedAt" : { "$date" : "2023-03-17T11:50:43.780+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "64185007e842d7bbe4354b87" }, "name" : "add category", "createdAt" : { "$date" : "2023-03-20T12:22:31.518+0000" }, "updatedAt" : { "$date" : "2023-03-20T12:22:31.518+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "641857d9e842d7bbe4354d2b" }, "name" : "add category", "createdAt" : { "$date" : "2023-03-20T12:55:53.436+0000" }, "updatedAt" : { "$date" : "2023-03-20T12:55:53.436+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "642e7b7c436d6b99d04654a1" }, "name" : "Business", "createdAt" : { "$date" : "2023-04-06T07:57:48.324+0000" }, "updatedAt" : { "$date" : "2023-04-06T07:57:48.324+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "642e7b8a436d6b99d04654a5" }, "name" : "Personal", "createdAt" : { "$date" : "2023-04-06T07:58:02.623+0000" }, "updatedAt" : { "$date" : "2023-04-06T07:58:02.623+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "644d1e92eb02976ee0aaae99" }, "name" : "test category", "createdAt" : { "$date" : "2023-04-29T13:41:38.952+0000" }, "updatedAt" : { "$date" : "2023-04-29T13:41:38.952+0000" }, "__v" : 0 }
+]

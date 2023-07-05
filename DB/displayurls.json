@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "64268efa66338836da3ab7a2" }, "displayUrl" : "sveltose.in", "createdAt" : { "$date" : "2023-03-31T07:42:50.736+0000" }, "updatedAt" : { "$date" : "2023-03-31T07:42:50.736+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "642bac1fddcaedd07e69b8c5" }, "displayUrl" : "apple.in", "createdAt" : { "$date" : "2023-04-04T04:48:31.585+0000" }, "updatedAt" : { "$date" : "2023-04-04T04:48:31.585+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "642bac28ddcaedd07e69b8cc" }, "displayUrl" : "www.samsung.com", "createdAt" : { "$date" : "2023-04-04T04:48:40.368+0000" }, "updatedAt" : { "$date" : "2023-04-04T04:48:40.368+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "644d20d6eb02976ee0aaaea0" }, "displayUrl" : "www.demo.com", "createdAt" : { "$date" : "2023-04-29T13:51:18.226+0000" }, "updatedAt" : { "$date" : "2023-04-29T14:04:01.256+0000" }, "__v" : 0 }
+]

@@ -1,0 +1,18 @@
+.offcanvas{
+  width: 35%;
+}
+.nav-tabs>.nav-item{
+  list-style:none;
+  border-top:0!important;
+  border-bottom: 0 !important;
+}
+.nav-tabs>.nav-item:hover{
+  transition: none!important;
+  box-shadow: none!important;
+}
+
+@media only screen and (max-width: 900px){
+  .offcanvas{
+    width:100%
+  }
+}

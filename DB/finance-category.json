@@ -1,0 +1,16 @@
+[
+{ "_id" : { "$oid" : "640a09cc6f5567e29836e66c" }, "userId" : { "$oid" : "63e46f6673473f895555d907" }, "title" : "naaz", "labelColor" : "Red", "__v" : 0 },
+{ "_id" : { "$oid" : "641c6e50e2c6a7bf2c20c2d5" }, "userId" : { "$oid" : "63e46f6673473f895555d907" }, "title" : "asdf", "labelColor" : "#28c76f", "__v" : 0 },
+{ "_id" : { "$oid" : "6423dd54d736460600ec9f32" }, "userId" : { "$oid" : "63e46f6673473f895555d907" }, "title" : "Product", "labelColor" : "success", "type" : "income", "__v" : 0 },
+{ "_id" : { "$oid" : "642b1d5fda47f9dde768fe09" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "title" : "asdasd", "labelColor" : "success", "type" : "income", "__v" : 0 },
+{ "_id" : { "$oid" : "642ee5f4c6deb228a2193547" }, "userId" : { "$oid" : "63ee71f3d42594c13c02be69" }, "title" : "test", "labelColor" : "primary", "type" : "income", "__v" : 0 },
+{ "_id" : { "$oid" : "642f283cd0036ec81f6ac00d" }, "userId" : { "$oid" : "63ee71f3d42594c13c02be69" }, "title" : "ex-good", "labelColor" : "success", "type" : "expense", "__v" : 0 },
+{ "_id" : { "$oid" : "642f28add0036ec81f6ac01d" }, "userId" : { "$oid" : "63ee71f3d42594c13c02be69" }, "title" : "Rent", "labelColor" : "info", "type" : "income", "__v" : 0 },
+{ "_id" : { "$oid" : "643c7a720f02ce59cdbd879b" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "title" : "asdasdsd", "labelColor" : "success", "type" : "income", "__v" : 0 },
+{ "_id" : { "$oid" : "643c7ad50f02ce59cdbd87a2" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "title" : "445541", "labelColor" : "danger", "type" : "income", "__v" : 0 },
+{ "_id" : { "$oid" : "643d508a2c28e0abf92d5ae1" }, "userId" : { "$oid" : "6394e2d877a382e42b5302c1" }, "title" : "Test1", "labelColor" : "primary", "type" : "income", "__v" : 0 },
+{ "_id" : { "$oid" : "643d61af2c28e0abf92d5d22" }, "userId" : { "$oid" : "6394e2d877a382e42b5302c1" }, "title" : "Test2", "labelColor" : "secondary", "type" : "expense", "__v" : 0 },
+{ "_id" : { "$oid" : "643d7d300f02ce59cdbdbb64" }, "userId" : { "$oid" : "63e46f6673473f895555d907" }, "title" : "Membership", "labelColor" : "danger", "type" : "income", "__v" : 0 },
+{ "_id" : { "$oid" : "6446576353fd07e185503581" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "title" : "rrrr", "labelColor" : "success", "type" : "expense", "__v" : 0 },
+{ "_id" : { "$oid" : "644a88d9c9c87f5561ed7858" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "title" : "BBC", "labelColor" : "light-secondary", "type" : "income", "__v" : 0 }
+]

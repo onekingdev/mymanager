@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "61cca1325c2d3754f0a52330" }, "summer_camp_category" : "Google21", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2021-12-29T17:56:02.366+0000" }, "updatedAt" : { "$date" : "2022-01-04T10:50:20.651+0000" }, "__v" : 0 }
+]

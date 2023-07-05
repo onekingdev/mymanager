@@ -1,0 +1,153 @@
+@import '../../@core/scss/base/bootstrap-extended/include';
+@import '../../@core/scss/base/components/include';
+
+.task-report {
+  width: 100%;
+  // height: 100%;
+
+  height: calc(100vh - 19rem);
+  // border: 1px solid $border-color;
+  // border-radius: $card-border-radius;
+  margin: 0;
+  padding: 0;
+  // padding-inline: 1%;
+  display: flex;
+  justify-content: space-between;
+  .leftside {
+    // min-width: 350px;
+    height: 100%;
+    padding: 1rem;
+    .list-tabs {
+      // width: 100%;
+      padding: 1rem 0 0 0;
+      margin-inline: 0;
+      // height: calc(100% - 10.5rem);
+      .nav-tabs {
+        padding: 0;
+      }
+      .list-group {
+        border: 1px solid #d8d6de;
+        height: calc(100% - 4rem);
+        overflow-y: auto;
+      }
+      .list-group .list-group-item {
+        padding: 0.58rem 1.5rem;
+        border-top: none;
+        border-right: none;
+        border-left: none;
+        border-bottom: 1px solid #d8d6de;
+        font-weight: $font-weight-bold;
+        letter-spacing: 0.4px;
+        background: transparent;
+        cursor: pointer;
+        .ws-name {
+          max-width: 11.8rem;
+          min-height: 1.8rem;
+          cursor: pointer;
+          &:hover {
+            cursor: pointer;
+          }
+        }
+        + .list-group-item.active {
+          margin-top: 0;
+        }
+        &:hover {
+          color: #a39ced;
+        }
+        &:focus,
+        &.active {
+          background: transparent;
+          color: #4233ed;
+          border-top: none;
+          border-right: none;
+          border-left: 2px solid #7367f0;
+          height: min-content !important;
+        }
+      }
+    }
+  }
+
+  .basic-time-line {
+    height: 100%;
+    padding: 0.4rem 0rem 1rem 0rem;
+    border-left: 1px solid $border-color;
+    // cursor: default;
+    .checklist-all {
+      // width: 100%;
+      border-color: #999999;
+      border-radius: 2px;
+      height: calc(100% - 4rem);
+      overflow-y: auto;
+
+      .checklist-item {
+        min-height: 16%;
+        border-bottom: 1px solid $border-color;
+        padding: 1rem;
+        .checklist-title-and-result {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          .checklist-title {
+            .checklist-no {
+              border-radius: 50%;
+              font-size: 20px;
+              font-weight: 800;
+              width: 30px;
+              height: 30px;
+              text-align: center;
+              background-color: #28c76f1f;
+              color: #28c76f;
+            }
+            .titlename {
+              font-size: 16px;
+              margin-left: 0.5rem;
+            }
+          }
+          .checklist-result {
+            margin-left: 2.7rem;
+          }
+        }
+        .checklist-content {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          // padding-inline-end: 2rem;
+        }
+      }
+    }
+  }
+
+  .rightside {
+    height: 100%;
+    border-left: 1px solid $border-color;
+    padding: 0;
+  }
+
+  .task-title {
+    border-bottom: 1px solid $border-color;
+    padding-right: 1rem;
+  }
+
+  .empty-list {
+    padding-top: 25%;
+  }
+}
+
+.input-group-merge {
+  border-radius: 20px;
+}
+.radius-square {
+  padding-left: 2px;
+  float: left;
+  height: 70px;
+  width: 5px;
+  border-radius: 2px;
+  clear: both;
+}
+.mb-half {
+  margin-bottom: 0.3rem;
+}
+
+.task-reporting-link {
+  color: #6c6c6c;
+}

@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "64207934a9f09c024b9d1226" }, "userId" : { "$oid" : "63f241fa2a66399d4c4b4d63" }, "position" : "Front end developer", "createdAt" : { "$date" : "2023-03-26T16:56:20.975+0000" }, "updatedAt" : { "$date" : "2023-03-26T16:56:20.975+0000" }, "__v" : 0 }
+]

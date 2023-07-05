@@ -1,0 +1,7 @@
+[
+{ "_id" : { "$oid" : "63e27555770144a0afd6b9fa" }, "user_id" : "6394e33f77a382e42b5302d7", "wallet" : 1495, "cretits" : 300, "is_Already_Purchase" : false, "purchased_Num" : null, "purchased_NumSid" : null, "__v" : 0 },
+{ "_id" : { "$oid" : "63e6733399cb716f67357996" }, "user_id" : "6394e22877a382e42b5302a9", "wallet" : 44.3, "is_Already_Purchase" : true, "purchased_Num" : "+13135130897", "purchased_NumSid" : "PNfa21fbcc80694640c6189837cb778a40", "__v" : 0, "purchased_Num2" : "+13135130919", "purchased_NumSid2" : "PN7c2ba6efa0d342cf95c6c5f221bbb1d4", "smsCredits" : 271, "voiceMinutes" : 85.8 },
+{ "_id" : { "$oid" : "63efccdf177731090675bffd" }, "user_id" : "63e46f6673473f895555d907", "wallet" : 8857.03, "cretits" : 581, "is_Already_Purchase" : true, "purchased_Num" : "+13135132588", "purchased_NumSid" : "PNb826eeca72b31f03a935d950a8f6a335", "__v" : 0, "smsCredits" : 5250, "purchased_Num2" : "+13135132589", "purchased_NumSid2" : "PNb826eeca72b31f03a935d950a8f6a335" },
+{ "_id" : { "$oid" : "63ff80c12644cf7da2c54ec9" }, "user_id" : "63ff7e962644cf7da2c54da2", "wallet" : 100, "cretits" : 1400, "is_Already_Purchase" : true, "purchased_Num" : "+15013226856", "purchased_NumSid" : "PNa9478557cf37c725d17f840ec29b4464", "__v" : 0 },
+{ "_id" : { "$oid" : "64471d8453fd07e185547cf6" }, "user_id" : "63e681816a9ab382a58384ee", "wallet" : 160, "smsCredits" : 0, "voiceMinutes" : 0, "is_Already_Purchase" : false, "purchased_Num" : null, "purchased_NumSid" : null, "purchased_Num2" : null, "purchased_NumSid2" : null, "__v" : 0 }
+]

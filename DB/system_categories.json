@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "620a2ab29e61af6922a33230" }, "category" : "system", "folder" : [ { "$oid" : "6214fd21d027043deda13fda" } ], "categoryName" : "SYstem", "adminId" : "6138893333c9482cb41d88d5", "createdAt" : { "$date" : "2022-02-14T10:10:58.780+0000" }, "updatedAt" : { "$date" : "2022-02-22T15:11:29.384+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6209ffbd1a6aa42d3e3e87a7" }, "category" : "system", "folder" : [ { "$oid" : "620a05942c29ee335e895917" } ], "categoryName" : "admin SYSTEM", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-14T07:07:41.453+0000" }, "updatedAt" : { "$date" : "2022-02-14T07:32:39.629+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6214fd27d027043deda13fe0" }, "category" : "system", "folder" : [  ], "categoryName" : "test", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-22T15:11:35.703+0000" }, "updatedAt" : { "$date" : "2022-02-22T15:11:35.703+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "620a0383e27eb730717ca48c" }, "category" : "system", "folder" : [ { "$oid" : "620e2c1ef566b759280c16b5" } ], "categoryName" : "admin2", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2022-02-14T07:23:47.880+0000" }, "updatedAt" : { "$date" : "2022-02-17T11:06:06.196+0000" }, "__v" : 0 }
+]

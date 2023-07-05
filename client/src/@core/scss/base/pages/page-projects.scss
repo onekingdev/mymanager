@@ -1,0 +1,262 @@
+@import '../bootstrap-extended/include'; // Bootstrap includes
+@import '../components/include'; // Components includes
+
+.project-group-rotate-icon {
+  transform: rotate(180deg);
+}
+
+.project-group-rotate-start {
+  transform: rotate(0deg);
+}
+
+.group-title:hover {
+  background-color: #fff !important;
+}
+
+.project-dropdown > a {
+  margin-right: 0px !important;
+}
+
+.project-table-fields > .react-select > .select__control > .select__value-container {
+  text-align: left !important;
+  padding-left: 1rem !important;
+}
+
+.overflow-none {
+  overflow: unset !important;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+.project-table-collapse > div > table {
+  margin-bottom: auto !important;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.project-table-collapse > div > table > thead > tr > th {
+  border-top: 1px solid #ebe9f1;
+  border-right: 1px solid #ebe9f1;
+  border-left: 1px solid #ebe9f1;
+}
+
+.project-table-collapse > div > table > tbody > tr > td {
+  border-bottom: 1px solid #ebe9f1;
+  border-top: 1px solid #ebe9f1;
+  border-right: 1px solid #ebe9f1;
+  border-left: 1px solid #ebe9f1;
+}
+
+.project-reactPaginate {
+  position: fixed;
+  bottom: 0%;
+  right: 0;
+}
+
+.project-table-row > td:first-child {
+  text-align: center;
+  position: sticky;
+  left: 0;
+  z-index: 20;
+  border-bottom: 1px solid #ebe9f1;
+  background-color: #f8f8f8;
+}
+
+.project-table-fields > div > input {
+  border-radius: 3px !important;
+}
+
+.project-table > .project-table-top {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: #fff;
+  border: 1px solid #ebe9f1;
+}
+
+.project-table > .project-table-top > div > button {
+  background-color: transparent !important;
+  color: #7367f0 !important;
+  font-weight: 600 !important;
+}
+
+.project-table>.project-table-top>div>button:hover {
+    color: #7367f0 !important;
+    background-color: rgba(115, 103, 240, 0.04) !important;
+    text-align: center !important;
+    cursor: pointer !important;
+    box-shadow: none !important;
+    border-radius: 0.358rem !important;
+}
+
+.dropdown-menu > .dropdown-item {
+  width: -moz-available;
+  width: -webkit-fill-available;
+  width: stretch;
+}
+
+.dropdown-item > .project-column-delete {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+#projectStatusDone:hover,
+#projectStatusWorking:hover,
+#projectStatusStuck:hover,
+#projectStatusPending:hover,
+#projectRemainingPercentage:hover {
+  border-radius: 2px !important;
+  height: 31px !important;
+  transition: all 0s ease-in-out !important;
+}
+
+.status-pending {
+  background: #ff9f43;
+  color: #fff;
+}
+
+.status-working {
+  background: #7367f0;
+  color: #fff;
+}
+
+.status-stuck {
+  background: #ea5455;
+  color: #fff;
+}
+
+.status-done {
+  background: #28c76f;
+  color: #fff;
+}
+
+.status-none {
+  background: #fff;
+}
+
+select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  height: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 16px;
+}
+
+.select-status > option {
+  height: 40px !important;
+  line-height: 40px !important;
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
+  font-size: 16px;
+}
+
+/*Remove Blue Select Color*/
+.item-details::selection {
+  color: none;
+  background: none;
+}
+
+/* For Mozilla Firefox */
+.item-details::-moz-selection {
+  color: none;
+  background: none;
+}
+
+.project-workspace-container {
+  border: 1px solid #ebe9f1;
+  border-top-left-radius: 0.428rem;
+  border-bottom-left-radius: 0.428rem;
+  background-color: #fff;
+  width: 100%;
+  max-width: fit-content;
+}
+
+.project-workspace-container > div > div > div > div > ul > li {
+  border-left: 2px solid transparent;
+  padding: 0.58rem 1.5rem;
+  border: 0;
+  border-radius: 0;
+  cursor: pointer;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+}
+
+.project-workspace-container>div>div>div>div>ul>li:hover {
+    color: #174ae7;
+}
+
+.list-group-item-action.active {
+    background: transparent !important;
+    border-color: #174ae7 !important;
+    color: #174ae7 !important;
+    z-index: 101 !important;
+}
+
+.project-workspace-items-active {
+    background: transparent;
+    border-color: #174ae7;
+    color: #174ae7;
+    height: min-content !important;
+}
+
+.project-collapse-inactive {
+  position: absolute;
+  left: 2.2rem;
+  margin-top: 0.6rem;
+  z-index: 111;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #ebe9f1;
+}
+
+.project-table {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.project-create-workspace-btn {
+  padding-inline: 10%;
+}
+
+.project-create-workspace-btn > button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.select__value-container {
+  text-align: start;
+}
+
+.project-column-title > .dropdown > a {
+  margin-right: 0rem !important;
+}
+
+.input-group-text > svg {
+  width: 14px;
+}
+
+.project-workspace-search-container > div:focus,
+.project-workspace-search:focus {
+  box-shadow: none !important;
+}
+
+.input-group-merge:focus-within {
+  box-shadow: none !important;
+}
+
+@media (max-width: 480px) {
+  .columns-modal-select-card-wrapper {
+    flex-direction: column;
+    gap: 0px !important;
+  }
+}

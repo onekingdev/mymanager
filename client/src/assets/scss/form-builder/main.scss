@@ -1,0 +1,563 @@
+// // This is style to overwrite grapesjs default styles
+// // Please DO NOT import it anywhere else
+
+.gjs-cv-canvas {
+  /* remove the right gap */
+  width: 100%;
+
+  /* remove the top gap */
+  height: 100%;
+  top: 0;
+  overflow-x: hidden;
+}
+
+.gjs-title {
+  background-color: #174ae7 !important;
+  color: #e2e2e2;
+  font-size: large;
+  font-weight: bold;
+}
+.gjs-block-label {
+  font-size: 1.5em;
+  display: inline-block;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: fit-content;
+  padding-left: 3px;
+}
+.gjs-blocks-cs {
+  width: 100%;
+  color: #2a3a4d;
+}
+.gjs-blocks-c {
+  display: block !important;
+  justify-content: start !important;
+  flex-wrap: nowrap !important;
+}
+.gjs-block {
+  border: none;
+  display: inline-flex;
+  justify-content: flex-start;
+  width: 100%;
+  text-align: start;
+  min-height: auto;
+  border: none;
+  box-shadow: none;
+  border-bottom: #174ae7 1px solid;
+  border-radius: 0;
+  flex-direction: row;
+  padding: 5px;
+}
+.gjs-caret-icon {
+  display: none;
+}
+.gjs-block__media {
+  display: inline-block !important;
+  width: 25px;
+  height: 25px;
+  margin: 0;
+}
+#blocks {
+  width: 100%;
+}
+.add-more-element {
+  cursor: pointer;
+}
+.add-new-element {
+  cursor: pointer;
+}
+.add-new-column {
+  cursor: pointer;
+}
+
+.backdrop {
+  background-color: #2a3a4d71;
+}
+//-------------------------------------- FROM MY MEMBER -------------------------------------
+// .main_appbar {
+//   margin: 0;
+//   background: "#fff";
+//   color: "#000";
+// }
+
+// .secondary-appbar {
+//   align-items: 'center';
+//   text-transform: 'none';
+// }
+
+// .appBarButton {
+//   text-transform: 'none';
+// }
+
+// .form-left-menu {
+//   background: #13343f;
+//   padding-top: 16px;
+//   padding-bottom: 16px;
+
+//   .menu-title {
+//     padding: 13px 40px;
+//     background: #0F4A61;
+//   }
+
+//   .submenu {
+//     padding: 6px 65px;
+//   }
+
+//   .submenu:hover {
+//     cursor: pointer;
+//   }
+
+//   .submenu.active span {
+//     color: #F78828;
+//   }
+// }
+
+$active-layout-color: #0184ff;
+$layout-divider: #e2e2e2;
+$layout-padding: 18px;
+
+// .layout-container {
+//   width: 300px;
+//   background: white;
+//   height: 100%;
+//   padding: $layout-padding;
+
+// }
+
+// .container-padding {
+//   padding: 8px;
+// }
+
+// .layout-title-container {
+//   display: flex;
+//   width: 100%;
+//   padding-bottom: $layout-padding;
+//   border-bottom: 1px solid $layout-divider;
+// }
+
+// .layout-title {
+//   margin: 0px;
+//   color: $active-layout-color;
+//   text-align: left;
+//   width: inherit;
+// }
+
+// .layout-sub-container {
+//   cursor: pointer;
+//   background: #EFF7FF;
+//   padding: 14px;
+//   border-radius: 5px;
+//   align-items: center;
+//   justify-content: center;
+//   display: flex;
+//   flex-flow: column;
+
+//   .layout-icon {
+//     height: 24px
+//   }
+
+//   .layout-content {
+//     margin-top: 10px;
+//     color: $active-layout-color;
+//   }
+
+//   .layout-bottom-tag {
+//     position: absolute;
+//     text-align: center;
+//     color: $active-layout-color;
+//     width: 16px;
+//     height: 16px;
+//     border-radius: 50%;
+//     background: #EFF7FF;
+//     bottom: -8px;
+//     right: -8px;
+//     font-size: 12px;
+//   }
+
+//   img.layout-bottom-tag {
+//     width: 10px;
+//     height: 10px;
+//     bottom: -5px;
+//     right: -5px;
+//   }
+// }
+
+// .home-box .home-1 {
+//   padding: 0;
+// }
+
+// .list-title {
+//   background: rgb(6, 6, 6, 0.4);
+// }
+
+// .list-title span {
+//   color: white !important;
+// }
+
+// .panel__top {
+//   padding: 0;
+// }
+
+.panel__basic-actions {
+  position: initial;
+  width: 100%;
+}
+
+// .step-one {
+//   display: flex;
+//   justify-content: center;
+//   height: 200px;
+//   align-items: center;
+// }
+
+// .css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+//   padding-right: 0;
+//   border: 2px solid rgb(1, 132, 255);
+//   border-radius: 50%;
+//   height: 50px;
+//   width: 50px;
+//   color: rgb(1, 132, 255) !important;
+// }
+
+// .css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root {
+//   height: 50px !important;
+//   width: 50px !important;
+//   color: gray;
+// }
+
+// .css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+//   color: rgb(1, 132, 255);
+// }
+
+// .templates_card {
+//   height: 100%;
+// }
+
+// .template_img {
+//   display: flex;
+//   justify-content: center;
+//   height: 60%;
+//   align-items: center;
+// }
+
+// .truncate-ellipsis {
+//   display: -webkit-box;
+//   -webkit-line-clamp: 4;
+//   -webkit-box-orient: vertical;
+//   width: 250px;
+//   overflow: hidden;
+//   padding: 0.5em;
+// }
+// .form-submenu {
+//   height: 54px;
+//   background: white;
+//   color: rgba(52, 73, 94, 0.7);
+//   &:hover {
+//     background-color: rgb(234, 244, 254);
+//     cursor: pointer;
+//   }
+//   .MuiListItemIcon-root {
+//     width: 54px;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+
+//     img {
+//       width: 28px;
+//     }
+//   }
+
+//   .action-icon {
+//     background: rgba(2, 2, 2, 0.05);
+//     height: 100%;
+//     margin-right: 1em;
+//     color: rgba(46, 80, 105, 0.63);
+//   }
+
+//   .check-icon {
+//     display: none;
+//     color: white;
+//   }
+// }
+
+.form-submenu.active {
+  background: #3baf7c;
+  color: white;
+
+  .action-icon {
+    color: white;
+  }
+  .check-icon {
+    display: flex;
+  }
+}
+
+//.form-submenu:hover,
+//.form-submenu:focus {
+//  background: #EFF7FF;
+//
+//  span {
+//    color: $active-layout-color;
+//  }
+//
+//}
+
+.gjs-editor-cont.Layout {
+  .gjs-badge {
+    background: rgb(49, 181, 119);
+  }
+
+  .gjs-toolbar {
+    background: rgb(49, 181, 119);
+  }
+
+  .gjs-highlighter {
+    outline-color: rgb(49, 181, 119);
+  }
+}
+
+.gjs-editor-cont.Layout-selected {
+  .gjs-toolbar {
+    background: rgb(49, 181, 119) !important;
+  }
+}
+
+.gjs-editor-cont.Column {
+  .gjs-badge {
+    background: #0166ae;
+  }
+
+  .gjs-toolbar {
+    background: #0166ae;
+  }
+
+  .gjs-highlighter {
+    outline-color: #0166ae;
+  }
+}
+
+.gjs-editor-cont.Column-selected {
+  .gjs-toolbar {
+    background: #0166ae !important;
+  }
+}
+
+.gjs-editor-cont.Form {
+  .gjs-badge {
+    background-color: #f78828;
+  }
+
+  .gjs-toolbar {
+    background-color: #f78828;
+  }
+
+  .gjs-highlighter {
+    outline-color: #f78828;
+  }
+}
+
+.gjs-editor-cont.Form-selected {
+  .gjs-toolbar {
+    background: #f78828 !important;
+  }
+}
+
+.gjs-editor-cont.Body {
+  .gjs-highlighter {
+    outline: none;
+    //outline-color: gray;
+  }
+  .gjs-badge {
+    background: transparent;
+  }
+}
+.gjs-editor-cont.Body-selected {
+  .gjs-toolbar {
+    display: none;
+  }
+}
+
+.gjs-editor-cont.Layout-Hover {
+  .gjs-badge {
+    background: rgb(49, 181, 119);
+  }
+
+  .gjs-highlighter {
+    outline-color: rgb(49, 181, 119);
+  }
+}
+
+.gjs-editor-cont.Column-Hover {
+  .gjs-badge {
+    background: #0166ae;
+  }
+
+  .gjs-highlighter {
+    outline-color: #0166ae;
+  }
+}
+
+.gjs-editor-cont.Form-Hover {
+  .gjs-badge {
+    background-color: #f78828;
+  }
+
+  .gjs-highlighter {
+    outline-color: #f78828;
+  }
+}
+
+.gjs-editor-cont.Body-Hover {
+  .gjs-highlighter {
+    outline: none;
+    //outline-color: gray
+  }
+  .gjs-badge {
+    display: none !important;
+  }
+}
+
+.gjs-badge {
+  background-color: #f78828;
+}
+
+.gjs-toolbar {
+  background-color: #f78828;
+}
+
+.gjs-highlighter {
+  outline-color: #f78828;
+}
+
+.bgsecondary {
+  background: #f1f1f1;
+}
+
+.gjs-rte-toolbar {
+  background-color: #2a3a4d;
+}
+.gjs-rte-actionbar {
+  color: #f1efef !important;
+}
+
+// .active {
+//   color: rgb(33, 150, 243);
+//   background: rgb(234, 244, 254);
+// }
+
+// .element {
+//   &:hover {
+//     color: rgb(33, 150, 243);
+//     background: rgb(234, 244, 254);
+//   }
+// }
+
+// .topbar {
+//   background: #474d49;
+//   height: 50px;
+//   display: flex;
+//   align-items: center;
+//   justify-content: space-between;
+
+//   .tobbarbutton {
+//     background: #828c86;
+//     margin: 0.5em;
+//     cursor: pointer;
+//     &:hover {
+//       background: rgb(234, 244, 254);
+//     }
+//   }
+// }
+// .error{
+//   color: rgb(238, 101, 101);
+// }
+
+.Layout-Drag,
+.Layout-selected {
+  .gjs-placeholder.horizontal,
+  .gjs-com-placeholder.horizontal,
+  .gjs-placeholder.horizontal {
+    border-color: rgba(0, 0, 0, 0) rgb(49, 181, 119);
+  }
+
+  .gjs-placeholder.vertical,
+  .gjs-com-placeholder.vertical,
+  .gjs-placeholder.vertical {
+    border-color: rgb(49, 181, 119) rgba(0, 0, 0, 0);
+  }
+
+  .gjs-placeholder-int,
+  .gjs-com-placeholder-int,
+  .gjs-placeholder-int {
+    background-color: rgb(49, 181, 119);
+  }
+
+  .gjs-layers #gjs-placeholder #gjs-plh-int.gjs-insert {
+    background-color: rgb(49, 181, 119);
+  }
+}
+
+.Column-Drag,
+.Column-selected {
+  .gjs-placeholder.horizontal,
+  .gjs-com-placeholder.horizontal,
+  .gjs-placeholder.horizontal {
+    border-color: rgba(0, 0, 0, 0) #0166ae;
+  }
+
+  .gjs-placeholder.vertical,
+  .gjs-com-placeholder.vertical,
+  .gjs-placeholder.vertical {
+    border-color: #0166ae rgba(0, 0, 0, 0);
+  }
+
+  .gjs-placeholder-int,
+  .gjs-com-placeholder-int,
+  .gjs-placeholder-int {
+    background-color: #0166ae;
+  }
+
+  .gjs-layers #gjs-placeholder #gjs-plh-int.gjs-insert {
+    background-color: #0166ae;
+  }
+}
+
+.Form-Drag,
+.Form-selected {
+  .gjs-placeholder.horizontal,
+  .gjs-com-placeholder.horizontal,
+  .gjs-placeholder.horizontal {
+    border-color: rgba(0, 0, 0, 0) #f78828;
+  }
+
+  .gjs-placeholder.vertical,
+  .gjs-com-placeholder.vertical,
+  .gjs-placeholder.vertical {
+    border-color: #f78828 rgba(0, 0, 0, 0);
+  }
+
+  .gjs-placeholder-int,
+  .gjs-com-placeholder-int,
+  .gjs-placeholder-int {
+    background-color: #f78828;
+  }
+}
+
+.gjs-layers #gjs-placeholder #gjs-plh-int.gjs-insert {
+  background-color: #f78828;
+}
+
+.mini-calender .fc-view-harness-active {
+  min-height: 400px !important;
+}
+.mini-calender .fc-scrollgrid-liquid {
+  border: 1px solid #ddd !important;
+}
+.mini-calender .fc-scrollgrid-sync-table {
+  width: 440px !important;
+  height: 400px !important;
+}
+.mini-calender .fc-header-toolbar {
+  margin-bottom: 0.5em;
+  font-size: 12px !important;
+}

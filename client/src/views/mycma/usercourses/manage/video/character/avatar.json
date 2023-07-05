@@ -1,0 +1,664 @@
+{
+  "avatar" : [
+    {
+      "label": "Andy",
+      "value": "c75d4980-06a6-4710-ab2b-0311e225d399"
+    },
+    {
+      "label": "Alex",
+      "value": "anna_costume1_cameraA"
+    },
+    {
+      "label": "Bridget1",
+      "value": "bridget_costume1_cameraA"
+    },
+    {
+      "label": "Bridget2",
+      "value": "bridget_costume2_cameraA"
+    },
+    {
+      "label": "Christina",
+      "value": "11b26380-ed22-490b-8ccb-afb34559bc99"
+    },
+    {
+      "label": "Dave1",
+      "value": "dave_costume1_cameraA"
+    },
+    {
+      "label": "Dave2",
+      "value": "dave_costume2_cameraA"
+    },
+    {
+      "label": "Isabella1",
+      "value": "isabella_costume1_cameraA"
+    },
+    {
+      "label": "Isabella2",
+      "value": "isabella_costume2_cameraA"
+    },
+    {
+      "label": "Jack1",
+      "value": "jack_costume1_cameraA"
+    },
+    {
+      "label": "Jack2",
+      "value": "jack_costume2_cameraA"
+    },
+    {
+      "label": "James",
+      "value": "james_costume1_cameraA"
+    },
+    {
+      "label": "Jenny",
+      "value": "22a9959b-6bd5-4200-9dc2-bb2dffffdf48"
+    },
+    {
+      "label": "Jonathan",
+      "value": "jonathan_costume1_cameraA"
+    },
+    {
+      "label": "Katherine",
+      "value": "katherine_costume1_cameraA"
+    },
+    {
+      "label": "Kenneth",
+      "value": "kenneth_costume1_cameraA"
+    },
+    {
+      "label": "Laura",
+      "value": "laura_costume1_cameraA"
+    },
+    {
+      "label": "Mallory1",
+      "value": "mallory_costume1_cameraA1"
+    },
+    {
+      "label": "Mallory2",
+      "value": "mallory_costume2_cameraA"
+    },
+    {
+      "label": "Marcus",
+      "value": "marcus_costume1_cameraA"
+    },
+    {
+      "label": "Mary1",
+      "value": "mary_costume1_cameraA"
+    },
+    {
+      "label": "Mary2",
+      "value": "mary_costume2_cameraA"
+    },
+    {
+      "label": "Matthew1",
+      "value": "matthew_costume1_cameraA"
+    },
+    {
+      "label": "Matthew2",
+      "value": "matthew_costume2_cameraA"
+    },
+    {
+      "label": "Mia1",
+      "value": "mia_costume1_cameraA"
+    },
+    {
+      "label": "Mia2",
+      "value": "mia_costume2_cameraA"
+    },
+    {
+      "label": "Mike1",
+      "value": "mike_costume1_cameraA"
+    },
+    {
+      "label": "Mike2",
+      "value": "mike_costume2_cameraA"
+    },
+    {
+      "label": "Nina",
+      "value": "nina_costume1_cameraA"
+    },
+    {
+      "label": "Paul",
+      "value": "ea86aeb9-13d3-4ae8-8d09-f0f5f4a4ac11"
+    },
+    {
+      "label": "Quharrison",
+      "value": "quharrison"
+    },
+    {
+      "label": "Richard",
+      "value": "richard_costume1_cameraA"
+    },
+    {
+      "label": "Ruby",
+      "value": "ruby_costume1_cameraA"
+    },
+    {
+      "label": "Santa1",
+      "value": "santa_costume1_cameraA"
+    },
+    {
+      "label": "Satan2",
+      "value": "santa_costume2_cameraA"
+    },
+    {
+      "label": "Sofia1",
+      "value": "sofia_costume1_cameraA"
+    },
+    {
+      "label": "Sofia2",
+      "value": "sofia_costume2_cameraA"
+    },
+    {
+      "label": "Sonia1",
+      "value": "sonia_costume1_cameraA"
+    },
+    {
+      "label": "Sonia2",
+      "value": "sonia_costume2_cameraA"
+    },
+    {
+      "label": "Veronika",
+      "value": "veronika_costume1_cameraA"
+    },
+    {
+      "label": "Vincent1",
+      "value": "vincent_costume1_cameraA"
+    },
+    {
+      "label": "Vincent2",
+      "value": "vincent_costume2_cameraA"
+    },
+    {
+      "label": "Yasmin",
+      "value": "1c5584a3-cb65-4b8a-ab32-a91cea54c7a0"
+    }
+  ],
+  "voice": [
+    {
+      "Afrikaans": [
+        {
+          "Male" : ["2396cbfb-f06d-421d-91b8-92c15ee0dcf1"],
+          "Female" : ["77e45e2c-d0c0-48ab-b882-42437b4bad27"]
+        }
+      ],
+      "Amharic": [
+        {
+          "Male": ["86ba8708-6d19-4df9-9980-05d03f138a8a"],
+          "Female": ["a4b9c4fa-9930-49e1-a721-24482b7aa347"]
+        }
+      ],
+      "Arabic": [
+        {
+          "Male": [
+            "52806b8e-5b7a-423d-8281-bacc5385a064", 
+            "54abc5a7-d03f-4310-bc9a-8c149e0f1ee8", 
+            "c4997e61-b652-49b8-92cb-9513280fe731", 
+            "51aa6cdf-24c0-45b7-8c8f-7943cc51ee57", 
+            "27e577f8-8924-4233-a82a-dc793cfcf208",
+            "c44c942b-4ddb-4875-a10c-ec4cfaca4bd0",
+            "4ee1c5e5-fce3-49a9-b961-3af0c3614318",
+            "741aba52-2833-4f1b-a4bc-5c4edaf4f16a",
+            "e4e3f82a-4c4a-4241-aac0-62cceaf4b67e",
+            "59cab402-4937-4a77-86b2-c43acad8c6ec",
+            "1502c15b-d7cb-47f6-9d73-9ceed5aa8039",
+            "de382663-8d85-41e4-9dd7-c9616faf233d",
+            "cda335de-24ba-44a9-b7d4-f7cec93b6144",
+            "c1da2241-c031-4e53-af2e-a91121e5ca9f",
+            "45e72862-54d1-4a5d-a45e-91206850b6c8",
+            "59fd4f31-02be-49cf-8301-074d01086727",
+            "912e19b5-5cf2-4d75-87ea-2ce148829d0f"
+          ],
+          "Female": [
+            "6f2f3ce5-454c-4873-b374-c97de3ef006c",
+            "e3aa9030-211a-4bdb-9022-c5f4bb907ef1",
+            "f57db631-f726-4539-afb0-48b915702004",
+            "dc1e83d6-e785-4239-92a3-a4ec77c4e4d3",
+            "5366cdff-1ffc-40e4-ac47-9bac9e7fce6c",
+            "d6f786c9-f3fd-4105-acd7-d3d6db4830da",
+            "37e3210d-f802-442a-9d8c-63742966a305",
+            "7003610d-6557-40e1-ba89-01e9f605ad5a",
+            "5648a9a2-f8f7-40e6-99e3-428d24475b7e",
+            "acd3566a-070a-4390-a0e9-6182fad45926",
+            "d1d2c16c-7f1e-4e6d-8ea8-111c029f4828",
+            "8a0fa9ba-787e-4c77-bbd7-63f196bc503d",
+            "0d5bae45-dbcc-4f37-8617-021abde2528f",
+            "9750f3be-9156-4658-a884-4bb7fae0fb19"
+          ]
+        }
+      ],
+      "Austrian": [
+        {
+          "Male": [
+            "d41ec40d-f73e-41a2-a308-26b51ef3faa0",
+            "e0c9ab51-f9e5-4b6e-a2d3-57a2c1186237",
+            "0d719cef-e636-464c-a8f0-3240a06a55bb",
+            "4359f2a0-8d8d-4247-9b8e-948c36cfb809",
+            "16e0da19-14ac-4499-86e1-5f85f1c06d50"
+          ],
+          "Female": [
+            "58a9cbbd-ab42-4560-9c4f-e801a34e92a1",
+            "c314febb-7793-4e74-9103-0de3804f23d7",
+            "c2b90e5f-7123-4f13-8cae-5df9b72bf2e1",
+            "15af3afb-5ef8-4f4e-ab1e-c43f297a1716",
+            "6dedb7b4-c5fa-4cd8-a4db-b8a3855edeeb",
+            "329d5718-4962-48df-9d13-93e563251335",
+            "8685230c-8c81-4d8c-b903-e9142f7c81cd",
+            "39435fcf-522b-48de-9837-40b7e6d6db73"
+           ]
+        }
+      ],
+      "Bengali": [
+        {
+          "Male": [
+            "6ed98db6-b3c3-4f03-8933-5074ace8acca",
+            "93fe19d1-c417-4e37-9f1d-06b8e483e2a0"
+          ],
+          "Female": [
+            "538dd0d3-dd30-4a0b-aa17-ca099a4884aa",
+            "1cc4396b-7c53-4046-bc84-396599bed249"
+          ]
+        }
+      ],
+      "Bulgarian": [
+        {
+          "Male": [
+            "60ae4c1b-907c-47c9-9ebd-914750e65c75",
+            "79ae8085-c7f8-4ee7-bdeb-cfaea43239d7",
+            "bd63f663-596a-437e-8461-6fb2027a066a"
+          ],
+          "Female": [
+            "7aa6a4c1-d003-4f9b-b646-42d23d34b357"
+          ]
+        }
+      ],
+      "Burmese": [
+        {
+          "Male": ["9f5b7ce9-18f5-42d6-97db-1b30655915c6"],
+          "Female": ["ca83c939-1df6-41bc-af61-af7a914cbfb1"]
+        }
+      ],
+      "Catalan": [
+        {
+          "Male": ["f1a27f14-c5cf-4f97-a329-0096ee94a356"],
+          "Female": ["fc1e78a7-806c-4c92-8418-5f90a169c618", "b828be4e-a897-4a9c-b7d4-c8fa40a7548d"]
+        }
+      ],
+      "Chinese": [
+        {
+          "Male": [
+            "131f329f-266b-4480-900f-f3d8ce16f611",
+            "d11b5d7e-9c5f-46e7-bec0-bbba36a8b927",
+            "ab7dc128-32cd-4223-b13a-545b87a9d353",
+            "85417dfc-529a-4e12-a508-596bc90e6811",
+            "b5cc1c7f-8e4b-4556-b3f1-77b77d7c755b"
+          ],
+          "Female": [
+            "b25976dd-3f5d-4225-a300-fd22950ab90c",
+            "4d22d533-ba31-4b2d-84a1-9918c76f4185",
+            "a99d25dd-cd6a-40ee-9c37-88618fc464e8",
+            "8e82b53b-1b55-418b-aae5-377c5c2f2689",
+            "fda36781-e5c7-4f3d-8f23-9a088489dc9d",
+            "0a87bde7-c97b-4009-bedc-c85e64e717f5"
+          ]
+        }
+      ],
+      "English": [
+        {
+          "label" : "Serious",
+          "MF": "Male",
+          "value": "096952a1-4e33-4688-9e09-5d78ccb4fa9c"
+        },
+        {
+          "label": "Natural",
+          "MF": "Male",
+          "value": "9ebb4661-3b6c-4761-a898-881993629f06"
+        },
+        {
+          "label": "Original",
+          "MF": "Male",
+          "value": "7aafb3b7-7bcc-4df1-a1f4-68d9aefb7615"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "70ded880-ad19-4673-956c-20aeaa5d1695"
+        },
+        {
+          "label": "Original",
+          "MF": "Female",
+          "value": "b96ad8ef-4570-4a85-9879-047c069a5b83"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "99272614-e79c-4d20-9134-1d16dfccd73a"
+        },
+        {
+          "label": "Lifelike",
+          "MF": "Female",
+          "value": "1af210d9-21f6-491a-b9a8-75fc7cca84de"
+        },
+        {
+          "label": "Energetic",
+          "MF": "Male",
+          "value": "4d6caa0a-5a37-4873-87ea-d515d10a049c"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "af6bf65f-e218-4999-be64-14fb07922478"
+        },
+        {
+          "label": "Natural",
+          "MF": "Male",
+          "value": "33a35de1-99e9-45ff-897b-3afdabcb4e94"
+        },
+        {
+          "label": "Mature",
+          "MF": "Male",
+          "value": "64dc8106-e7a3-49bc-8360-a6d215800851"
+        },
+        {
+          "label": "Natural",
+          "MF": "Male",
+          "value": "7fe7a3e3-0116-4002-b7d0-773a9cedf289"
+        },
+        {
+          "label": "Calm",
+          "MF": "Male",
+          "value": "12f59fc3-0027-468d-bc9d-e18f8b19b0aa"
+        },
+        {
+          "label": "Calm",
+          "MF": "Male",
+          "value": "9407afd9-532c-49ec-831e-a4feb0f30bc1"
+        },
+        {
+          "label": "Narration",
+          "MF": "Male",
+          "value": "10e0518f-8fb1-4732-857e-c7428c5c9b47"
+        },
+        {
+          "label": "Original",
+          "MF": "Male",
+          "value": "f678f961-19ed-42a2-ac5e-bb54d8ddc479" 
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "20c248b7-aae7-45ed-88c5-9acc0be07aa4"
+        },
+        {
+          "label": "Warm",
+          "MF": "Female",
+          "value": "8d234cbc-e8d9-4a3d-a866-ed92a8138a8f"
+        },
+        {
+          "label": "Warm",
+          "MF": "Female",
+          "value": "862898f2-8dda-4e64-bd0e-4c7ed8876937"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "1cfd4c0a-73c7-4b46-a96e-4922f162bf56"
+        },
+        {
+          "label": "Narration",
+          "MF": "Female",
+          "value": "3243108c-9337-48b0-b288-4f7ca9f2bec1"
+        },
+        {
+          "label": "Serious",
+          "MF": "Female",
+          "value": "e5574edd-31c7-4cf3-a9f1-f2a7d560c671"
+        },
+        {
+          "label": "Original",
+          "MF": "Female",
+          "value": "ae58fa30-7f9f-4bd4-8a5f-604fbff70d21"
+        },
+        {
+          "label": "Original",
+          "MF": "Female",
+          "value": "ac3bfa25-771c-4f42-91e5-5a6f964443a3"
+        },
+        {
+          "label": "Original",
+          "MF": "Female",
+          "value": "14e1495e-6357-47e9-958c-c55f1104de84"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "3f5dc77f-9ef3-4f43-a02f-44b523648f7c"
+        },
+        {
+          "label": "Didactic",
+          "MF": "Male",
+          "value": "ff2e98e0-6fce-4990-8099-4628c2ada34f"
+        },
+        {
+          "label": "Honest",
+          "MF": "Male",
+          "value": "c0482657-34c5-452c-84fb-d24f065ad47d"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "5b34630d-9048-4563-949b-cf9d50effd85"
+        },
+        {
+          "label" : "Natural",
+          "MF": "Male",
+          "value": "cedad3ed-66c7-41be-82ad-95acf08a0d72"
+        },
+        {
+          "label" : "Original",
+          "MF": "Male",
+          "value": "54dc16d8-ca53-4bef-99ec-c5268e0f72eb"
+        },
+        {
+          "label": "Original",
+          "MF": "Male",
+          "value": "06fd69d4-9b24-463c-890f-57f11e4cbec4"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "75c71905-7766-42a6-b313-d8094a2a0575"
+        },
+        {
+          "label": "Original",
+          "MF": "Female",
+          "value": "3aa6b52d-d26f-41b5-9249-9901eb159831"
+        },
+        {
+          "label": "Natural",
+          "MF": "Male",
+          "value": "3dcafc66-15ee-45dc-b14d-45eb29bc639e"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "eba04564-1c5e-4104-ab82-7e369d3036e4"
+        },
+        {
+          "label": "Commercial",
+          "MF": "Male",
+          "value": "3714876a-1d61-4e66-8db7-4e1a737f7254"
+        },
+        {
+          "label": "Thoughtful",
+          "MF": "Male",
+          "value": "601179a2-65f8-4655-97ae-b63454fde73f"
+        },
+        {
+          "label": "Upbeat",
+          "MF": "Male",
+          "value": "35c4fd8b-53aa-4f2b-b81f-ca98e50086e5"
+        },
+        {
+          "label": "Friendly",
+          "MF": "Male",
+          "value": "adcc2db8-345a-474c-aca6-d69d35379061"
+        },
+        {
+          "label": "Deep",
+          "MF": "Male",
+          "value": "d8c834e7-ff70-4062-992b-fac6ee7c91b8"
+        },
+        {
+          "label": "Easy Going",
+          "MF": "Female",
+          "value": "f2e40d57-751f-4ca7-a47c-72b311eef0de"
+        },
+        {
+          "label": "Energetic",
+          "MF": "Male",
+          "value": "628cbad1-6b6e-4cdf-b937-e07af62c1ae3"
+        },
+        {
+          "label": "Lifelike",
+          "MF": "Male",
+          "value": "7eb77130-3fb9-4401-8d89-c47cde90e378"
+        },
+        {
+          "label": "Newscaster",
+          "MF": "Male",
+          "value": "1909e617-a8e5-4ccd-b341-5dcad95621ad"
+        },
+        {
+          "label": "Deeper",
+          "MF": "Male",
+          "value": "b5307e71-56f7-4f83-9ef3-fbd4795b7134"
+        },
+        {
+          "label": "Youthful",
+          "MF": "Male",
+          "value": "02129904-ed79-4c98-b935-b222c950524d"
+        },
+        {
+          "label": "Oratory",
+          "MF": "Male",
+          "value": "e87f3020-d5d8-4b28-b34c-eee6934bed82"
+        },
+        {
+          "label": "Meticulous",
+          "MF": "Female",
+          "value": "b3578f25-d5fa-4791-8895-158fcb2e12f2"
+        },
+        {
+          "label": "Lively",
+          "MF": "Male",
+          "value": "e625a9c2-e937-4a0a-afc5-3f55ac005246"
+        },
+        {
+          "label": "Lively",
+          "MF": "Male",
+          "value": "a8aa0c96-7392-4be9-8a1a-974f75e1f856"
+        },
+        {
+          "label": "Peaceful",
+          "MF": "Male",
+          "value": "3a68c660-e534-49cf-bead-dbe211192803"
+        },
+        {
+          "label": "Promotional",
+          "MF": "Female",
+          "value": "fb6f7012-a562-4e12-aef2-c0bbf90ba8e4"
+        },
+        {
+          "label": "Commercial",
+          "MF": "Female",
+          "value": "fb6f7012-a562-4e12-aef2-c0bbf90ba8e4"
+        },
+        {
+          "label": "Chat",
+          "MF": "Female",
+          "value": "5bb53f78-d009-43fe-94ea-f1508a2c1ad6"
+        },
+        {
+          "label": "Customer",
+          "MF": "Female",
+          "value": "3baa2c35-5b6a-467e-b04a-657e0fd38c3a"
+        },
+        {
+          "label": "Empathetic",
+          "MF": "Female",
+          "value": "914732b6-7416-48cd-9a25-08d10438d854"
+        },
+        {
+          "label": "Newscaster",
+          "MF": "Female",
+          "value": "9d5e2e88-445c-4ecf-ab8e-916b47187e12"
+        },
+        {
+          "label": "Original",
+          "MF": "Female",
+          "value": "9b0be7b1-8c7a-4d4f-88f6-8d5f1c236aaf"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "5700dddb-a94a-4194-9c63-03671ee17338"
+        },
+        {
+          "label": "Soft-spoken",
+          "MF": "Male",
+          "value": "0d1c273a-d2b5-4827-a322-52479569c6b8"
+        },
+        {
+          "label": "Understanding",
+          "MF": "Female",
+          "value": "379b3e6b-e496-4196-88a5-c97702134617"
+        },
+        {
+          "label": "Announcer",
+          "MF": "Male",
+          "value": "9833e684-5d12-4c3f-ba3d-22d92be9c966"
+        },
+        {
+          "label": "Booming",
+          "MF": "Male",
+          "value": "46fe496f-0076-4044-a204-06842ddf6a4f"
+        },
+        {
+          "label": "Bright",
+          "MF": "Female",
+          "value": "6910ea73-ab6c-42a2-8b09-8e7ff676fb26"
+        },
+        {
+          "label": "Natural",
+          "MF": "Female",
+          "value": "cf61a4ec-9be8-432a-afa8-b422e8776789"
+        },
+        {
+          "label": "Clear",
+          "MF": "Female",
+          "value": "ec4d958f-14ed-47ef-b837-685367ed5b43" 
+        },
+        {
+          "label": "Deep",
+          "MF": "Female",
+          "value": "bd7f5d7a-5e4e-4683-adc7-5a52119e41b9" 
+        },
+        {
+          "label": "Compassionate",
+          "MF": "Male",
+          "value": "af370a6c-c2ac-4523-bc7c-a2d5e77183ff"
+        },
+        {
+          "label": "Young",
+          "MF": "Male",
+          "value": "26e52d38-bc67-4784-b68f-a81d8448c0ab"
+        },
+        {
+          "label": "Lively",
+          "MF": "Female",
+          "value": "20139d5b-2d4b-4a35-a56e-9808b4398afc"
+        }
+      ]
+    } 
+  ]
+}

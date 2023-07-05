@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "645e4ae44658a019a9b1c682" }, "name" : "W.S. Taekwondo", "organizationId" : { "$oid" : "6446b3ea53fd07e18551b27d" }, "address" : "1358 wantagh ave", "email" : "uctmasterfrank@gmail.com", "contact" : "5555555555", "__v" : 0 }
+]

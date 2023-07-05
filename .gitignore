@@ -1,0 +1,8 @@
+**node_modules
+**.env
+**.eslintrc.json
+/nginx
+docker-compose.yml
+/client/yarn.lock
+/server/yarn.lock
+server/.huskyrc

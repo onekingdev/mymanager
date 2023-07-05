@@ -1,0 +1,9 @@
+<svg id="ic-watched-video" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <circle id="Oval_Copy_55" data-name="Oval Copy 55" cx="20" cy="20" r="20" fill="blue"/>
+  <g id="Group_4" data-name="Group 4" transform="translate(10 11)">
+    <path id="Path" d="M17.946,7c-.042-.758-.1-1.454-.179-2.081A5.28,5.28,0,0,0,13.08.233,34.9,34.9,0,0,0,9,0,35.074,35.074,0,0,0,5.137.208a5.532,5.532,0,0,0-4.9,4.938A32.913,32.913,0,0,0,0,9a32.914,32.914,0,0,0,.233,3.854,5.532,5.532,0,0,0,4.905,4.938c.569.063,1.191.117,1.862.154" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-2" data-name="Path" d="M0,6.09V1.5A1.5,1.5,0,0,1,2.3.23l3.67,2.294a1.5,1.5,0,0,1,0,2.544L2.3,7.362A1.5,1.5,0,0,1,0,6.09Z" transform="translate(6 5.204)" fill="#fff"/>
+    <path id="Path-3" data-name="Path" d="M6,6A6.88,6.88,0,0,1,0,3,6.88,6.88,0,0,1,6,0a6.876,6.876,0,0,1,6,3A6.876,6.876,0,0,1,6,6Z" transform="translate(10 12)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Oval" cx="1" cy="1" r="1" transform="translate(15 14)" fill="#fff"/>
+  </g>
+</svg>

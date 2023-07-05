@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "6437b596a653cb3e2fffa6b8" }, "customerId" : "cus_NhkVdTpp1h1rbM", "userId" : { "$oid" : "6437b596a653cb3e2fffa6b7" }, "phone" : "", "createdAt" : { "$date" : "2023-04-13T07:56:06.143+0000" }, "updatedAt" : { "$date" : "2023-04-13T07:56:06.143+0000" }, "__v" : 0 }
+]

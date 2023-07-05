@@ -1,0 +1,9 @@
+[
+{ "_id" : { "$oid" : "6423718f50a5fd7c86d1c1d9" }, "folderName" : "Parent Folderd", "subFolder" : [ { "$oid" : "6423946cd32006fd55754271" } ], "userId" : { "$oid" : "63e46f6673473f895555d907" }, "__v" : 0 },
+{ "_id" : { "$oid" : "64238a21b32cd387dc94553e" }, "folderName" : "Uncle Folder", "subFolder" : [  ], "userId" : { "$oid" : "63e46f6673473f895555d907" }, "__v" : 0, "template" : [ { "$oid" : "6423f00dc2ed9dc63724d207" }, { "$oid" : "6423fb73d2639ee0cba9508f" }, { "$oid" : "6423fc1c7c02fc1b293e7726" } ] },
+{ "_id" : { "$oid" : "64238a3fb32cd387dc945618" }, "folderName" : "As Folder", "subFolder" : [  ], "userId" : { "$oid" : "63e46f6673473f895555d907" }, "__v" : 0 },
+{ "_id" : { "$oid" : "64238a72b32cd387dc9456f2" }, "folderName" : "bes folder", "subFolder" : [  ], "userId" : { "$oid" : "63e46f6673473f895555d907" }, "__v" : 0 },
+{ "_id" : { "$oid" : "64238b22b32cd387dc945a57" }, "folderName" : "aes", "subFolder" : [  ], "userId" : { "$oid" : "63e46f6673473f895555d907" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6424095f42bfa21b24849f86" }, "folderName" : "New folder1", "subFolder" : [ { "$oid" : "642409bb42bfa21b24849f95" } ], "template" : [  ], "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6424096a42bfa21b24849f8d" }, "folderName" : "New folder2", "subFolder" : [  ], "template" : [ { "$oid" : "64242bb9c8c8d46646bd18ea" }, { "$oid" : "64246748c8c8d46646bd2027" } ], "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "__v" : 0 }
+]

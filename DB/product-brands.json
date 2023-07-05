@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "644768b0edb7952257432ae0" }, "userId" : { "$oid" : "644768b0edb7952257432adf" }, "name" : "TEST", "img" : "", "shopId" : { "$oid" : "64170aac829b998f286bccd9" }, "isDeleted" : false, "createdAt" : { "$date" : "2023-04-25T05:44:16.672+0000" }, "updatedAt" : { "$date" : "2023-04-25T05:44:16.672+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "64476bb0edb7952257432cdf" }, "userId" : { "$oid" : "64476bb0edb7952257432cde" }, "name" : "mymanager", "img" : "", "shopId" : { "$oid" : "64476b8cedb7952257432c8b" }, "isDeleted" : false, "createdAt" : { "$date" : "2023-04-25T05:57:04.305+0000" }, "updatedAt" : { "$date" : "2023-04-25T05:57:04.305+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6449e796a11ef575822fa617" }, "userId" : { "$oid" : "6449e796a11ef575822fa616" }, "name" : "CMA", "img" : "", "shopId" : { "$oid" : "64476b8cedb7952257432c8b" }, "isDeleted" : false, "createdAt" : { "$date" : "2023-04-27T03:10:14.724+0000" }, "updatedAt" : { "$date" : "2023-04-27T03:10:14.724+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6453c1c445de021e851f04d9" }, "userId" : { "$oid" : "6453c1c445de021e851f04d8" }, "name" : "Apple", "img" : "", "shopId" : { "$oid" : "6453c17145de021e851f0486" }, "isDeleted" : false, "createdAt" : { "$date" : "2023-05-04T14:31:32.707+0000" }, "updatedAt" : { "$date" : "2023-05-04T14:31:32.707+0000" }, "__v" : 0 }
+]

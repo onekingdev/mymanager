@@ -1,0 +1,184 @@
+@import '../../@core/scss/base/bootstrap-extended/include';
+@import '../../@core/scss/base/components/include';
+
+// Task Application css starts
+.task-application {
+  width: 100%;
+  // Content area wrapper border
+
+  .content-body {
+    background-color: $white;
+    width: 100%;
+
+    .task-app-list {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      // Todo Fixed search
+      .app-fixed-search {
+        background-color: $white;
+        padding: 0.5rem;
+        border-bottom: 1px solid $border-color;
+        .input-group:focus-within {
+          box-shadow: none;
+        }
+        // input,
+        .input-group-text {
+          border-right: 0;
+        }
+        // .input-group {
+        //   max-width: 250px;
+        // }
+      }
+      .task-workspace {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .app-workspace-wrapper {
+          display: contents;
+        }
+      }
+      .task-list-wrapper {
+        min-height: calc(100vh - 26.7rem);
+        max-height: calc(100vh - 26.7rem);
+        overflow: scroll;
+      }
+      .list-group {
+        border-radius: 0px;
+        border: none;
+      }
+    }
+
+    .task-title {
+      margin-left: 0.5rem;
+      margin-right: 0.5rem;
+    }
+    .completed {
+      .task-title {
+        color: $text-muted;
+      }
+    }
+    // Task task list area
+    .task-task-list-wrapper {
+      position: relative;
+      background-color: $white;
+      border-radius: 0;
+      padding: 0;
+      .task-task-list {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        li {
+          cursor: pointer;
+          transition: all 0.2s, border-color 0s;
+          position: relative;
+          padding: 0.893rem 2rem;
+          &:not(:first-child) {
+            border-top: 1px solid $border-color;
+          }
+          &:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 3px 10px 0 $border-color;
+            transition: all 0.2s;
+          }
+          .task-title-wrapper {
+            display: flex;
+            justify-content: space-between;
+          }
+          .task-title-area,
+          .title-wrapper {
+            display: flex;
+            align-items: center;
+          }
+          // Todo Item Action
+          .task-item-action {
+            display: flex;
+            align-items: center;
+            > small {
+              margin-left: auto;
+            }
+            a {
+              cursor: pointer;
+              font-size: 1.2rem;
+            }
+          }
+
+          .badge-wrapper {
+            display: flex;
+            .badge:not(:last-child) {
+              margin-right: 0.5rem;
+            }
+          }
+        }
+        .sc-fznJRM {
+          // overflow-y: scroll;
+          // .sc-fzoiQi {
+          //   .sc-AxjAm {
+          //   }
+          // }
+        }
+      }
+      // When we search, no-results
+      .no-results {
+        display: none;
+        padding: 1.5rem;
+        text-align: center;
+        &.show {
+          display: block;
+        }
+      }
+    }
+  }
+  .task-item {
+    .drag-icon {
+      visibility: hidden;
+      cursor: move;
+      position: absolute;
+      left: 0.2rem;
+      width: 1.75rem;
+      padding: 0 5px;
+    }
+    &:hover {
+      .drag-icon {
+        visibility: visible;
+      }
+    }
+  }
+
+  // validation text style
+  form .error:not(li):not(input) {
+    color: $danger;
+    font-size: 85%;
+    margin-top: 0.25rem;
+  }
+}
+.rdt_Table {
+  border-bottom: 1px solid $border-color;
+  font-size: 13px;
+  // .rdt_TableRow {
+  //   .rdt_TableCell {
+  //     justify-content: center;
+  //   }
+  // }
+  .rdt_TableHead {
+    margin-top: -5px;
+    .rdt_TableHeadRow {
+      font-weight: 700;
+      color: #6e6b7b;
+      background-color: #f3f2f7 !important;
+      // .rdt_TableCol {
+      //   .rdt_TableCol_Sortable {
+      //     justify-content: center;
+      //   }
+      // }
+    }
+  }
+}
+
+.task-status-setting {
+  .ps-container > .ps-scrollbar-x-rail,
+  .ps-container > .ps-scrollbar-y-rail {
+    opacity: 0.6;
+  }
+}

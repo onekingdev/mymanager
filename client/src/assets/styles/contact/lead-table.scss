@@ -1,0 +1,186 @@
+@import '../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../@core/scss/base/components/include';
+
+.project-table-row > :first-child {
+  text-align: center;
+  position: sticky;
+  left: 0;
+  z-index: 20;
+  border-bottom: 1px solid #ebe9f1;
+  // background-color: #f62222;
+}
+
+.project-table-fields > div > input {
+  border-radius: 3px !important;
+}
+
+.project-table-fields > .react-select > .select__control > .select__value-container {
+  text-align: left !important;
+  padding-left: 1rem !important;
+}
+
+.w-expanded {
+  width: calc(100% - 260px);
+  max-width: calc(100% - 260px);
+}
+
+.lead-border {
+  width: 100%;
+  margin: 0 0 0 0;
+  border: 1px solid $border-color;
+  border-radius: $card-border-radius;
+  // height: calc(100vh - 26rem);
+  height: max-content;
+  display: flex;
+  justify-content: space-between;
+
+  .project-workspace-container {
+    max-width: $menu-expanded-width;
+    height: 100%;
+    overflow: hidden;
+    transition: max-width 0.2s ease-out;
+    .task-sidebar {
+      height: inherit;
+      display: flex;
+      background-color: $white;
+      border-top-left-radius: $card-border-radius;
+      border-bottom-left-radius: $card-border-radius;
+
+      // Sidebar Menu
+      .task-app-menu {
+        height: 100%;
+        overflow: auto;
+        width: 100%;
+        z-index: 3;
+        .add-task {
+          padding: 1.5rem;
+        }
+
+        // Sidebar menu list items
+        .sidebar-menu-list {
+          position: relative;
+          height: calc(100% - 80px);
+
+          .create-workspace-btn {
+            padding-inline: 10%;
+          }
+        }
+      }
+      .list-group .list-group-item {
+        padding: 0.58rem 1.5rem;
+        border: 0;
+        font-weight: $font-weight-bold;
+        letter-spacing: 0.4px;
+        border-left: 2px solid transparent;
+        border-radius: 0;
+        cursor: pointer;
+        .ws-name {
+          max-width: 11.8rem;
+          min-height: 1.8rem;
+          cursor: pointer;
+          &:hover {
+            cursor: pointer;
+          }
+        }
+        + .list-group-item.active {
+          margin-top: 0;
+        }
+        &:hover {
+          color: $primary;
+          background: transparent;
+        }
+        &:focus,
+        &.active {
+          background: transparent;
+          color: $primary;
+          height: min-content !important;
+          border-color: #7367f0;
+        }
+      }
+    }
+  }
+  .sidebar-expand-panel {
+    width: 20px;
+    height: 100%;
+    .btn.btn-flat {
+      border-radius: $card-border-radius;
+      height: inherit;
+      &:hover {
+        background-color: #e8e8e8;
+      }
+    }
+  }
+  .cus-container {
+    width: calc(100% - 260px);
+    flex-grow: 1;
+    transition: all 0.2s ease-out;
+    // height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-left: 1px solid $border-color;
+
+    .workspace-title {
+      padding-inline-end: 7px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      background-color: $white;
+      border-top-right-radius: $card-border-radius;
+      border-bottom: 1px solid $border-color;
+      .app-workspace-wrapper {
+        width: 95%;
+        margin-right: 5%;
+      }
+      .btn-icon {
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        margin-left: 5px;
+        border: 2px solid $border-color;
+        position: 'absolute';
+      }
+    }
+    .tab-header {
+      display: flex;
+      justify-content: left;
+      background-color: $white;
+    }
+    .tab-content {
+      width: 100%;
+      height: 100%;
+      padding: 0rem 0 0.1rem 0;
+      // overflow: auto;
+      background-color: $white;
+      .active {
+        // height: 100%;
+        width: 100%;
+        .select-day-checklist {
+          .active {
+            width: 100px !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+//Track /
+::-webkit-scrollbar-track {
+  background: #dcd7d7;
+}
+
+//  Handle
+::-webkit-scrollbar-thumb {
+  background: #aaa;
+  border-radius: 100px;
+}
+// .task-task-list-wrapper {
+//   padding: 7px;
+// }

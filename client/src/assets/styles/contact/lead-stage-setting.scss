@@ -1,0 +1,40 @@
+@import '../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../@core/scss/base/components/include';
+
+.task-status-setting {
+  .ps-container > .ps-scrollbar-x-rail,
+  .ps-container > .ps-scrollbar-y-rail {
+    opacity: 0.6;
+  }
+  .list-group .list-group-item {
+    padding: 0.58rem 1.5rem;
+    border: 0;
+    font-weight: $font-weight-bold;
+    letter-spacing: 0.4px;
+    border-left: 2px solid transparent;
+    border-radius: 0;
+    cursor: pointer;
+    .ws-name {
+      max-width: 11.8rem;
+      min-height: 1.8rem;
+      cursor: pointer;
+      &:hover {
+        cursor: pointer;
+      }
+    }
+    + .list-group-item.active {
+      margin-top: 0;
+    }
+    &:hover {
+      color: $primary;
+      background: transparent;
+    }
+    &:focus,
+    &.active {
+      background: transparent;
+      color: $primary;
+      height: min-content !important;
+      border-color: #7367f0;
+    }
+  }
+}

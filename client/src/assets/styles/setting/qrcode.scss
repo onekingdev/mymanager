@@ -1,0 +1,201 @@
+@import '../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../@core/scss/base/components/include';
+
+.qrcode {
+  padding: 0;
+  margin: 0;
+  height: calc(100% - 4.6rem);
+  .qrcode-title {
+    padding: 1rem;
+    border-bottom: 1px solid $border-color;
+  }
+  .qrcode-leftside {
+    height: 100%;
+    background-color: rgb(246, 246, 246);
+    display: flex-start;
+    flex-direction: column;
+    overflow-y: auto;
+    .accordion-collapse {
+      background-color: rgb(246, 246, 246);
+    }
+    .colorBlock {
+      margin-top: 1rem;
+      .colorSet {
+        padding-left: 5px;
+        .colorPicker {
+          padding: 0;
+          width: 30px;
+          height: 30px;
+        }
+        .colorPickerText {
+          height: 30px;
+          width: 100px;
+          margin-left: -1px;
+          border-bottom-left-radius: 0;
+          border-top-left-radius: 0;
+        }
+      }
+    }
+    .pdf-page-center {
+      background: lightgrey;
+      padding-top: 0.5rem;
+      padding-inline: 0.5rem;
+      margin-inline: 0.25rem;
+      list-style-type: none;
+    }
+    .pdf-page-center-clicked {
+      background: rgb(194, 202, 251);
+      padding-top: 0.5rem;
+      padding-inline: 0.5rem;
+      margin-inline: 0.25rem;
+      list-style-type: none;
+    }
+    .design-pattern {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 4rem;
+      height: 4rem;
+      padding: 0.3rem;
+      background-color: #f7f7f7;
+      border: 2px solid #ddd;
+    }
+    .design-pattern-clicked {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 4rem;
+      height: 4rem;
+      padding: 0.3rem;
+      background-color: #ffffff;
+      border: 2px solid #90c52d;
+    }
+    .qrcode-image-part {
+      // height: 100%;
+      padding-inline: 2rem;
+      padding-top: 1rem;
+      align-items: center;
+      .qrcode-image {
+        padding: 0.5rem;
+      }
+      .price-slider {
+        width: 239px;
+      }
+      .ft-12 {
+        font-size: 13px;
+        font-weight: 600;
+      }
+      .ft-10 {
+        font-size: 10px;
+      }
+      .noUi-handle {
+        border-width: 10px;
+        border-color: #03a9f4;
+        // outline: 10px;
+        width: 2rem;
+        height: 2rem;
+        top: -0.8rem;
+        // left: 0.6rem;
+        outline-width: 5px;
+      }
+      .btn-array {
+        padding: 2rem;
+      }
+    }
+    .frame-with-border {
+      border: 1px solid $border-color;
+      padding: 0;
+      margin-bottom: 0.5rem;
+      border-radius: 0.5rem;
+      .frame-with-border-header {
+        display: flex;
+        align-items: center;
+        border-top-right-radius: 0.5rem;
+        border-top-left-radius: 0.5rem;
+        padding: 0.5rem;
+        margin: 0;
+        font-weight: 800;
+        margin: '0.5rem';
+        background-color: #f3f3f3;
+      }
+      .frame-with-border-body {
+        padding: 0.5rem;
+      }
+    }
+  }
+
+  .qrcode-rightside {
+    padding-inline: 3rem;
+    .preview-text {
+      position: fixed;
+    }
+    .smartphone-preview {
+      position: fixed;
+      padding: 2rem 0.6rem;
+      aspect-ratio: 0.54;
+      // height: calc(100% - 4rem);
+      // width: 20vw;
+      // height: 30vw;
+      width: 18%;
+      margin-top: 3rem;
+
+      // max-width: 220px;
+      // min-height: 400px;
+      border: 1px solid #bab8bf;
+      border-radius: 2rem;
+      .smartphone-skeleton {
+        // min-height: 348px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid #bab8bf;
+
+        .smartphone-background {
+          width: 100%;
+          height: 92%;
+          .top-backgnd {
+            // position: absolute;
+            // z-index: -1;
+            width: 100%;
+            height: 40%;
+          }
+          // .top-skew-backgnd {
+          //   // position: absolute;
+          //   // z-index: -1;
+          //   width: 100%;
+          //   height: 20%;
+          //   margin-top: 5%;
+          //   // transform: skewY(-10deg);
+          // }
+          .bottom-backgnd {
+            // z-index: -2;
+            width: 100%;
+            height: 60%;
+          }
+        }
+        .smartphone-img-area {
+          position: fixed;
+          margin-top: 5%;
+          align-items: center;
+        }
+        .smartphone-button-area {
+          width: 100%;
+          height: 8%;
+          font-size: 16px;
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+          cursor: pointer;
+          .smartphone-button {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+
+  .noUi-origin {
+    width: 10%;
+  }
+}

@@ -1,0 +1,12 @@
+[
+{ "_id" : { "$oid" : "6214d60adf93ea833cd3ac26" }, "smartlists" : [  ], "folderName" : "qwertyuio", "userId" : "606aea95a145ea2d26e0f1ab", "__v" : 0 },
+{ "_id" : { "$oid" : "621607413b2bb449398227bc" }, "smartlists" : [  ], "folderName" : "hi", "userId" : "606aea95a145ea2d26e0f1ab", "__v" : 0 },
+{ "_id" : { "$oid" : "621665deb8d0274e7ccaf9a3" }, "smartlists" : [  ], "folderName" : "eqerwre", "userId" : "606aea95a145ea2d26e0f1ab", "__v" : 0 },
+{ "_id" : { "$oid" : "6214d29770349578e69e85c6" }, "smartlists" : [  ], "folderName" : "qwertyui", "userId" : "606aea95a145ea2d26e0f1ab", "__v" : 0 },
+{ "_id" : { "$oid" : "6215f3a8d027043deda1dee2" }, "smartlists" : [  ], "folderName" : "hello", "userId" : "606aea95a145ea2d26e0f1ab", "__v" : 0 },
+{ "_id" : { "$oid" : "6214d3b170349578e69e85c9" }, "smartlists" : [ { "$oid" : "63c116def1af281cf0d04c95" }, { "$oid" : "63c36f1925fa5d9eee100c91" } ], "folderName" : "adminTEst", "adminId" : "6138893333c9482cb41d88d5", "__v" : 0 },
+{ "_id" : { "$oid" : "6215f993d027043deda1dfc6" }, "smartlists" : [  ], "folderName" : "naazneen", "userId" : "606aea95a145ea2d26e0f1ab", "__v" : 0 },
+{ "_id" : { "$oid" : "6216d7702838c652a5a93afa" }, "smartlists" : [  ], "folderName" : "asdasd", "userId" : "606aea95a145ea2d26e0f1ab", "__v" : 0 },
+{ "_id" : { "$oid" : "63c1022902a5290c57305b38" }, "folderName" : "smart", "smartlists" : [  ], "adminId" : "6394e2d877a382e42b5302c1", "__v" : 0 },
+{ "_id" : { "$oid" : "63c1027502a5290c57305b88" }, "folderName" : "ddd", "smartlists" : [  ], "adminId" : "6394e2d877a382e42b5302c1", "__v" : 0 }
+]

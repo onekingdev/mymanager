@@ -1,0 +1,5 @@
+[
+{ "_id" : { "$oid" : "64076ac507321a02d2aaf512" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "courseId" : { "$oid" : "64076a9907321a02d2aaf4fd" }, "lessonName" : "curriculum", "videoId" : [ { "$oid" : "64076adc07321a02d2aaf519" } ], "createdAt" : { "$date" : "2023-03-07T16:48:05.207+0000" }, "updatedAt" : { "$date" : "2023-03-07T16:48:28.655+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6453cba545de021e851f0bde" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "courseId" : { "$oid" : "6453cb9245de021e851f0bcf" }, "lessonName" : "Belt tying", "videoId" : [ { "$oid" : "6453cc6f45de021e851f0c38" } ], "quiz" : [  ], "createdAt" : { "$date" : "2023-05-04T15:13:41.727+0000" }, "updatedAt" : { "$date" : "2023-05-04T15:17:04.023+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "645c1efe7452b65b15a39d46" }, "userId" : { "$oid" : "63e7f9022fbac2b46ebda77c" }, "courseId" : { "$oid" : "645ae308a7f3663aae15ce9c" }, "lessonName" : "test lesson 1", "videoId" : [ { "$oid" : "645c1f1d7452b65b15a39e9f" } ], "quiz" : [  ], "createdAt" : { "$date" : "2023-05-10T22:47:26.554+0000" }, "updatedAt" : { "$date" : "2023-05-10T22:47:57.739+0000" }, "__v" : 0 }
+]

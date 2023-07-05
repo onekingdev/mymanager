@@ -1,0 +1,5 @@
+[
+{ "_id" : { "$oid" : "6395d0694333e2be4952ce92" }, "userId" : { "$oid" : "6394dd5677a382e42b530291" }, "id" : "contacts", "isMainMenu" : true, "mainMenuId" : "", "title" : "Contacts", "icon" : "icon", "navLink" : "", "__v" : 0 },
+{ "_id" : { "$oid" : "6395d1535f6d40028efd8025" }, "userId" : { "$oid" : "6394dd5677a382e42b530291" }, "id" : "clients", "isMainMenu" : false, "mainMenuId" : "contacts", "title" : "Clients", "icon" : "icon", "navLink" : "/contacts/clients/list", "__v" : 0 },
+{ "_id" : { "$oid" : "6395d17a5f6d40028efd8029" }, "userId" : { "$oid" : "6394dd5677a382e42b530291" }, "id" : "employee", "isMainMenu" : false, "mainMenuId" : "contacts", "title" : "Employee", "icon" : "icon", "navLink" : "/contacts/employee/list", "__v" : 0 }
+]

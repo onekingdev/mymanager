@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="146px" viewBox="0 0 146 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>flamelite</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-528.000000, -539.000000)" fill-rule="nonzero">
+            <g id="flamelite" transform="translate(528.000000, 539.000000)">
+                <circle id="Oval-3" fill="#FFEBEE" cx="73" cy="73" r="73"></circle>
+                <path d="M59.125,19 C61.6327778,48.6544128 36,58.8637148 36,84.983028 C36,102.724526 48.617,117.867293 73,117.999292 C97.383,118.131291 110,99.7916722 110,81.0560561 C110,63.9745533 101.522889,47.8665435 85.5306667,37.8511151 C89.3293333,48.6049133 84.2726667,58.426468 79.359889,61.8089437 C79.6476667,48.0439173 74.734889,27.6170634 59.125,19 Z" id="Shape" fill="#F44336"></path>
+                <path d="M76.2451996,72 C91.1793671,88.8424444 82.0080781,110 70.0130183,110 C62.7149631,110 58.9605412,104.658889 59.0003127,99.1193333 C59.0758783,88.8466667 69.8857498,88.8382222 76.2451996,72 Z" id="Path" fill="#D50000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

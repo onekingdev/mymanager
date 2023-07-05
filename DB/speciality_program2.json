@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "61cc9a345c2d3754f0a521a5" }, "speciality_program2_category" : "Google1", "userId" : "606aea95a145ea2d26e0f1ab", "createdAt" : { "$date" : "2021-12-29T17:26:12.035+0000" }, "updatedAt" : { "$date" : "2022-01-04T10:49:36.380+0000" }, "__v" : 0 }
+]

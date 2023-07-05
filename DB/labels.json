@@ -1,0 +1,22 @@
+[
+{ "_id" : { "$oid" : "63ef8e5223717c3f4345fdc5" }, "title" : "URGENT", "color" : "danger", "isDelete" : false, "__v" : 0 },
+{ "_id" : { "$oid" : "63ef8e5223717c3f4345fdc6" }, "title" : "Code Review", "color" : "light-danger", "isDelete" : false, "__v" : 0 },
+{ "_id" : { "$oid" : "63ef8e5223717c3f4345fdc3" }, "title" : "UX", "color" : "light-success", "isDelete" : false, "__v" : 0 },
+{ "_id" : { "$oid" : "63ef8e5223717c3f4345fdc4" }, "title" : "Images", "color" : "light-warning", "isDelete" : false, "__v" : 0 },
+{ "_id" : { "$oid" : "63ef8e5223717c3f4345fdc2" }, "title" : "App", "color" : "light-info", "isDelete" : false, "__v" : 0 },
+{ "_id" : { "$oid" : "63ef8e5223717c3f4345fdc7" }, "title" : "Charts & Maps", "color" : "light-primary", "isDelete" : false, "__v" : 0 },
+{ "_id" : { "$oid" : "63f8144ea71442be8a247516" }, "title" : "1323123", "color" : "secondary", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "63f81452a71442be8a24751d" }, "title" : "123123123", "color" : "light-danger", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "63f848623a430b96a2c1974e" }, "title" : "Test", "color" : "primary", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "63f848cc3a430b96a2c19874" }, "title" : "Test", "color" : "light-secondary", "isDelete" : false, "__v" : 0 },
+{ "_id" : { "$oid" : "63f8e17143029c6b68691dc3" }, "title" : "Structure", "color" : "light-success", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "6405d7e5579996547d433479" }, "time" : "3:00 pm", "date" : "date", "add_label" : "add_label", "workspace" : { "$oid" : "6405d77a579996547d433476" }, "timezone" : "(GMT + 5:30) India Standard Time", "approvel" : "approvel", "createdAt" : { "$date" : "2023-03-06T12:09:09.483+0000" }, "updatedAt" : { "$date" : "2023-03-06T12:09:09.483+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "64074cef07321a02d2aad0ac" }, "title" : "Game Play", "color" : "success", "isDelete" : false, "__v" : 0 },
+{ "_id" : { "$oid" : "64074cf907321a02d2aad0b3" }, "title" : "Gameplay", "color" : "success", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "6408dc42e034ad9e6586f00c" }, "title" : "New lable", "color" : "info", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "640e459d8cfcfd4efc8cac47" }, "title" : "asdasdasd", "color" : "secondary", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "640e45ab8cfcfd4efc8cac4e" }, "title" : "azasdasd", "color" : "light-primary", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "640e45b18cfcfd4efc8cac55" }, "title" : "zzzzzz", "color" : "light-success", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "64128201f4e46475409d79f5" }, "title" : "New Label", "color" : "success", "isDelete" : true, "__v" : 0 },
+{ "_id" : { "$oid" : "6424ec7f6d31218ca9de6a68" }, "title" : "Low Priority", "color" : "light-success", "isDelete" : false, "__v" : 0 }
+]

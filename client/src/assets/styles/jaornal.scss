@@ -1,0 +1,369 @@
+// new jaornal scss start rohit
+.journal-cal-list {
+  border: 1px solid #ebe9f1;
+  height: 100%;
+  overflow-y: scroll;
+  width: 45%;
+  display: inline-block;
+}
+
+.jaornal-text {
+  border: 1px solid #ebe9f1;
+  height: 100%;
+  overflow-y: scroll;
+  padding-bottom: 20px;
+  width: 55%;
+}
+li.pdd-1.list-group-item {
+  margin-right: 15px;
+}
+.d-flex.jour-1 {
+  margin-top: 15px;
+  border: 1px solid #ebe9f1;
+  padding: 7px;
+  border-radius: 4px;
+  height: 75px !important;
+  overflow: hidden;
+  span > p > span {
+    font-size: 12px !important;
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+  }
+}
+.d-flex.jour-1:hover {
+  background-color: #174ae7;
+  h5 {
+    color: #fff;
+  }
+  p {
+    color: #fff;
+  }
+  h2 {
+    color: #fff;
+  }
+  h1 {
+    color: #fff;
+  }
+  span {
+    color: #fff;
+  }
+}
+
+.jour-lf {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  padding: 5px;
+  // padding-left: 10px;
+  border: 1px solid #ebe9f1;
+  border-radius: 4px;
+  margin-right: 10px;
+  p {
+    margin: 0px;
+    color: #174ae7;
+  }
+  h2 {
+    margin: 0px;
+    font-size: 16px;
+    color: #174ae7;
+  }
+  h1 {
+    margin: 0px;
+    font-size: 16px;
+    color: #174ae7;
+  }
+}
+.jour-lf.active {
+  background-color: gray;
+  width: 60px !important;
+  height: 60px !important;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid #ebe9f1;
+  border-radius: 4px;
+  margin-right: 10px;
+  h1 {
+    color: #fff;
+  }
+}
+.jour-md {
+  width: auto;
+  max-width: 100px;
+  overflow: hidden;
+  margin: 2px;
+  h5 {
+    margin: 0px;
+    font-size: 14px;
+  }
+  p {
+    font-size: 12px;
+    margin-bottom: 2px;
+    line-height: 15px;
+  }
+}
+.sidebar-content.task-sidebar.journal {
+  // height: 540px;
+  height: 100%;
+  // overflow-y: scroll;
+  // border-right: 1px solid#cccccc8f;
+}
+.top-jurl-search-view {
+  // height: 60px;
+  background: #fff;
+  padding: 10px 0;
+  // position: fixed;
+}
+.jrnl-view {
+  // margin-top: 65px !important;
+  margin-bottom: 10px;
+}
+img.app-img {
+  width: 55px;
+  height: 55px;
+  border-radius: 10%;
+}
+.btn-st-r {
+  text-align: right;
+  margin-top: 40px;
+}
+// scroll css start
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+//Track /
+::-webkit-scrollbar-track {
+  background: #dcd7d7;
+}
+
+//  Handle
+::-webkit-scrollbar-thumb {
+  background: #aaa;
+  border-radius: 100px;
+}
+
+// scroll css close
+
+span.right-side {
+  float: right;
+  margin-top: -10px;
+}
+p.mm-1 {
+  padding: 20px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #f8f8f8;
+}
+
+[dir] .list-group-item {
+  padding: 0.75rem 1.25rem;
+  background-color: #fff;
+  border: none !important;
+}
+[dir] .jour-md p {
+  margin-bottom: 6px;
+}
+// New jaornal scss rohit close
+
+.list-item.active span {
+  color: #174ae7;
+}
+.list-item-wrapper.active span {
+  color: #ffffff !important;
+}
+[dir] .list-group-item.active {
+  background-color: #fff;
+}
+[dir] .rounded-pill {
+  border-radius: 50rem;
+  background: none;
+}
+
+// 30/01/2023
+button.fc-dayGridMonth-button.fc-button.fc-button-primary.fc-button-active {
+  background: #174ae7 !important;
+  border-color: #174ae7 !important;
+}
+span.stt-rs {
+  float: right;
+  margin-top: -6px;
+}
+
+.cus-container {
+  width: 100%;
+  // margin: 0 20px;
+  // width: 90%;
+}
+// button.btn.btn-secondary {
+//   background: #fff !important;
+//   color: black !important;
+//   border-color: #174ae7 !important;
+//   padding: 7px 5px;
+// }
+.null.set-collapse {
+  margin-top: 23px;
+  position: relative;
+  left: 15px;
+  height: 36px;
+  position: absolute;
+}
+select.rtt-slt.form-select {
+  width: 82%;
+  margin: 0 auto;
+}
+p.customhmlyext {
+  height: 30px !important;
+  width: 20% !important;
+  margin: 0 auto;
+  padding: 10px;
+
+  // height:20px;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  overflow: hidden !important;
+  white-space: nowrap !important;
+}
+span.stt-rs {
+  visibility: hidden;
+}
+.sidebar-content.task-sidebar.journal:hover {
+  span.stt-rs {
+    visibility: visible;
+  }
+}
+
+// 01/04/2023 css new css
+// rss hight class
+.joru-side-height {
+  // height: 75vh;
+  height: 100%;
+  border-right: 1px solid #ebe9f1;
+}
+.joru-side-height::-webkit-scrollbar {
+  width: 0px;
+}
+.cus-child-container::-webkit-scrollbar {
+  width: 0px;
+}
+.col-5.mt-2 {
+  height: 75vh;
+  overflow: auto;
+}
+.col-5.mt-2::-webkit-scrollbar {
+  width: 0px;
+}
+
+.calendar > .fc-theme-standard > .fc-view-harness-passive > .fc-popover {
+  width: 170px;
+}
+.calendar > .fc-theme-standard > .fc-view-harness-passive > .fc-popover > .fc-popover-header {
+  color: #000;
+  background-color: #fff !important;
+}
+.calendar > .fc-theme-standard > .fc-view-harness-passive > .fc-popover > .fc-popover-header {
+  width: 170px;
+  min-width: 170px !important;
+  // text-align: center;
+}
+.calendar > .fc-theme-standard > .fc-view-harness-passive > .fc-popover > .fc-popover-body {
+  background-color: #fff !important;
+  width: 170px;
+  min-width: 170px !important;
+}
+
+.calendar
+  > .fc-theme-standard
+  > .fc-view-harness-passive
+  > .fc-popover
+  > .fc-popover-body
+  > .fc-daygrid-event-harness
+  > .fc-h-event {
+  background-color: rgba(40, 199, 111, 0.12) !important;
+  border: 1px solid rgba(40, 199, 111, 0.12) !important;
+  color: #28c76f !important;
+}
+
+.calendar
+  > .fc-theme-standard
+  > .fc-view-harness-passive
+  > .fc-popover
+  > .fc-popover-body
+  > .fc-daygrid-event-harness
+  > .fc-h-event
+  .fc-event-main {
+  color: #28c76f !important;
+}
+
+.calendar
+  > .fc-theme-standard
+  > .fc-view-harness
+  > .fc-dayGridMonth-view
+  > .fc-scrollgrid
+  > tbody
+  > .fc-scrollgrid-section
+  > td
+  > .fc-scroller-harness
+  > .fc-scroller
+  > .fc-daygrid-body
+  > .fc-scrollgrid-sync-table
+  > tbody
+  > tr
+  > .fc-daygrid-day
+  > .fc-daygrid-day-frame
+  > .fc-daygrid-day-events
+  > .fc-daygrid-event-harness
+  > .fc-daygrid-event {
+  background-color: rgba(40, 199, 111, 0.12) !important;
+  border: 1px solid rgba(40, 199, 111, 0.12) !important;
+}
+.calendar
+  > .fc-theme-standard
+  > .fc-view-harness
+  > .fc-dayGridMonth-view
+  > .fc-scrollgrid
+  > tbody
+  > .fc-scrollgrid-section
+  > td
+  > .fc-scroller-harness
+  > .fc-scroller
+  > .fc-daygrid-body
+  > .fc-scrollgrid-sync-table
+  > tbody
+  > tr
+  > .fc-daygrid-day
+  > .fc-daygrid-day-frame
+  > .fc-daygrid-day-events
+  > .fc-daygrid-event-harness
+  > .fc-daygrid-event
+  > .fc-event-main {
+  color: #28c76f !important;
+  overflow: hidden !important;
+}
+.jrnl_wrapper_sidebar {
+  // height: 50vh !important;
+  // overflow: scroll;
+}
+.jrnl_wrapper_sidebar::-webkit-scrollbar {
+  display: none;
+}
+.jour-md > span {
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  width: 60% !important;
+  display: block;
+}
+
+.btn.btn-icon.btn-toggle-sidebar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  width: 28px;
+  height: 28px;
+  border: 1px solid #ebe9f1;
+}

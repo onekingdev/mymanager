@@ -1,0 +1,3 @@
+[
+{ "_id" : { "$oid" : "63e44e2e8f259f8c7dc152e2" }, "userId" : { "$oid" : "63e3d7e480b33d41b10d9d32" }, "fullName" : "shahnaaz nazmeen", "email" : "shahnaaznazmeen@gmail.com", "phone" : "1111111111", "photo" : "", "gender" : "", "socialLinks" : [  ], "status" : "active", "note" : "", "tags" : [  ], "type" : "none", "ranks" : [  ], "salary" : null, "isFormer" : false, "isinternship" : false, "isDelete" : false, "__v" : 0 }
+]

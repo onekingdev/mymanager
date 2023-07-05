@@ -1,0 +1,14 @@
+@import '../../@core/scss/base/bootstrap-extended/include';
+@import '../../@core/scss/base/components/include';
+
+.contact-type {
+  border-right: 1px solid $border-color;
+  .contact-type-item:hover,
+  .contact-type-item.active {
+    background-color: #174be7;
+    color: #fff;
+  }
+}
+.current-share {
+  border-top: 1px solid $border-color;
+}

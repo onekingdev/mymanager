@@ -1,0 +1,4 @@
+[
+{ "_id" : { "$oid" : "61c0d8adc4e4b94ee0b523c0" }, "campName" : "dsd", "__v" : 0, "userId" : "606aea95a145ea2d26e0f1ab" },
+{ "_id" : { "$oid" : "61c0d89cc4e4b94ee0b5238b" }, "campName" : "rg", "__v" : 0, "userId" : "606aea95a145ea2d26e0f1ab" }
+]

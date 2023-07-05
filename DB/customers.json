@@ -1,0 +1,4 @@
+[
+{ "_id" : { "$oid" : "63dd88134250a71adf8b81f1" }, "userId" : { "$oid" : "6394e33f77a382e42b5302d7" }, "fullName" : "Clinton Oh", "email" : "Ceo@clintonoh.com", "address" : { "street" : "21 Kettlepond Rd.", "country" : "canada" }, "__v" : 0 },
+{ "_id" : { "$oid" : "63e1043807ca30624891702a" }, "userId" : { "$oid" : "6394e2d877a382e42b5302c1" }, "fullName" : "shireen", "email" : "shireen20@gmail.com", "address" : { "street" : "560012", "country" : "canada" }, "__v" : 0 }
+]

@@ -1,0 +1,410 @@
+// sadik Khan userProof
+
+.ft-1 {
+  text-align: right;
+  button {
+    margin-left: 6px;
+  }
+}
+// header input Dynamic Data
+.inputMainDiv1 {
+  position: relative;
+}
+.inputMainDiv2 {
+  display: inline-block;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #242328;
+  letter-spacing: -0.03em;
+}
+
+.inputData {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 100%;
+  border: none;
+}
+.spanData {
+  display: inline-block;
+  margin-right: 1em;
+  opacity: 0;
+  min-width: 4em;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+}
+
+div.heading {
+  background-color: #7367f0 !important;
+  padding: 3.125rem !important;
+}
+.heading1,
+.heading h1 {
+  font-size: 35px;
+  font-weight: 600;
+  color: #fff !important;
+  line-height: 1em;
+  margin: 0 0 15px;
+  letter-spacing: -0.02em;
+  text-align: start;
+}
+
+.heading p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.2em;
+  color: hsla(0, 0%, 100%, 0.75) !important;
+  margin: 0;
+  max-width: 610px;
+  letter-spacing: -0.01em;
+  text-align: start;
+}
+
+.customselect .select__control .css-yk16xz-control {
+  border-radius: 0 !important;
+}
+.rt-t.btn-group button {
+  background: none !important;
+  color: black !important;
+}
+.selectData {
+  width: 150px;
+}
+
+.cardChange.card:hover {
+  transition: all 0.15s ease-in-out !important;
+  transform: translateY(-4px) !important;
+}
+.addCode p {
+  padding: 10px 0;
+  line-height: 2;
+  color: #b2b5cb;
+}
+
+.heading2 {
+  margin-bottom: 5px;
+  color: #242328;
+  font-weight: 500;
+  position: relative;
+  font-size: 20px;
+}
+.card2 {
+  padding: 0 23px;
+}
+.msgDiv {
+  padding: 20px;
+  margin: 10px 0 30px;
+  font-size: 1.2em;
+  font-weight: 700;
+  color: #9196b6;
+  text-align: center;
+  background-color: rgba(145, 150, 182, 0.1);
+  border-radius: 5px;
+}
+
+[dir='ltr'] div.heading {
+  background-color: #7367f0 !important;
+  padding: 12px 35px 20px !important;
+  display: inline-block;
+  width: 100%;
+}
+.bottom-boxStyle {
+  margin-top: -15px;
+  padding: 0 10px;
+}
+
+.CardStyle.card {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px !important;
+}
+
+// notification card
+.switchbtn {
+  margin-right: 10px;
+}
+.notifiCard {
+  border-bottom: 1px solid #eceff0 !important;
+  padding: 1.2rem !important;
+}
+.InputDiv {
+  padding: 0 5px;
+}
+.inputTime {
+  width: 4rem !important;
+  text-align: center !important;
+}
+.cardttl.card-title {
+  font-weight: 100;
+}
+
+// notification css
+.onofButton {
+  margin-right: 10px;
+  font-size: 0.8em;
+  font-weight: 700;
+  color: #a7b5c2;
+  text-transform: uppercase;
+  opacity: 0.5;
+}
+.innerAppearance {
+  padding: 6px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.css-1hwfws3 {
+  width: 50px;
+}
+.btnStyle {
+  margin: 3px 0;
+  text-align: right;
+}
+.btnposition {
+  text-align: right;
+  width: 100%;
+}
+
+// notificatio custom css Start
+
+.heading {
+  text-align: center !important;
+  font-weight: bold;
+}
+
+.para {
+  text-align: center;
+  margin: 20px auto !important;
+}
+
+.primarygoals ul {
+  list-style: none;
+  padding: 5px;
+}
+[dir] .primarygoals ul li {
+  margin: 10px 0;
+  padding: 7px 9px;
+  border-radius: 40px;
+  color: #fff;
+  box-shadow: none;
+  border-color: #4270fc;
+  background-color: #4270fc;
+  width: fit-content;
+  text-align: center;
+}
+.mainDiv {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+.firstCard {
+  position: relative;
+  text-align: center;
+  z-index: 1;
+  cursor: pointer;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  transition: transform 0.15s ease-out;
+}
+.pd {
+  box-shadow: 0 1px 2px rgba(66, 112, 252, 0.2), 0 10px 20px rgba(66, 112, 252, 0.2),
+    0 0 0 1px rgba(66, 112, 252, 0.2), 0 0 0 4px rgba(66, 112, 252, 0.2);
+  transform: translate(0);
+}
+
+.cardTitle {
+  margin: 15px auto 5px;
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #4270fc;
+  text-transform: uppercase;
+}
+// Auto Page
+.autoPara {
+  font-size: 18px;
+  color: #9196b6;
+  line-height: 2;
+}
+
+.headAuto {
+  padding: 12px 15px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  font-size: 1.3em;
+  border-bottom: 1px solid #eceff0;
+  background-color: #eff8ff;
+  color: #4270fc;
+  border-radius: 5px 5px 0 0;
+}
+
+.navLink {
+  padding: 9px 12px !important;
+}
+.iconSize {
+  margin-right: 8px !important;
+}
+
+#test-l-1,
+#test-l-2,
+#test-l-3,
+#test-l-4,
+#test-l-5 {
+  margin-left: 0px;
+}
+
+// sidebar
+.submitBtn {
+  float: right;
+}
+.parentDiv {
+  display: grid;
+  grid-template-columns: 56px 1fr;
+  grid-gap: 24px;
+  -ms-flex-align: center;
+  align-items: center;
+  position: relative;
+  box-sizing: border-box;
+  border: 1px solid rgba(216, 217, 226, 0.5);
+  box-shadow: 10px 20px 40px 0 rgba(36, 35, 40, 0.1);
+  padding: 16px;
+  height: 88px;
+  pointer-events: auto;
+  overflow: hidden;
+  background-color: #fff;
+  line-height: 1em;
+  width: 250px;
+  margin: 0 0 10px 10px;
+  border-radius: 50px;
+}
+.preview {
+  display: flex;
+}
+.innerMap {
+  img {
+    border-radius: 50px;
+    margin-bottom: 15px;
+  }
+}
+
+// stepper
+.step-trigger {
+  padding: 8px !important;
+}
+.stepperSetup {
+  margin: 16px 7px 0;
+}
+[dir] .bs-stepper-content {
+  padding: 0 20px 20px;
+}
+[dir] .bs-stepper-circle {
+  margin: 0.25rem;
+  background-color: #b9b9c3;
+  border-radius: 2px;
+  padding: 19px;
+  justify-content: center;
+  align-items: center;
+}
+
+[dir] .active .bs-stepper-circle {
+  background-color: #7367f0 !important;
+}
+
+[dir] .bs-stepper .step-trigger:hover {
+  background-color: transparent;
+}
+
+// stepper
+p.px {
+  margin: 0;
+  text-align: start;
+  font-weight: 600;
+}
+p.px1 {
+  font-weight: 400;
+  font-size: 0.85rem;
+  color: #b9b9c3;
+}
+
+.bs-stepper .step-trigger {
+  color: #b9b9c3;
+  font-weight: 400;
+}
+.bs-stepper .step-trigger:focus {
+  color: #7367f0 !important;
+  outline: 0;
+}
+
+.AddUrlBtn {
+  width: 100%;
+  text-align: right;
+}
+
+.react-tagsinput--focused {
+  border-color: #174ae7 !important;
+}
+.react-tagsinput-tag {
+  background-color: #174ae7 !important;
+  border-radius: 2px;
+  border: 1px solid #174ae7 !important;
+  color: #fff !important;
+}
+
+.zeroOne span {
+  font-size: 2.5rem;
+  color: #b2b5cb;
+}
+.navItems:hover .navTitle {
+  color: rgb(23, 74, 231);
+}
+
+[dir] .nav-pills .DivStyle.active {
+  background-color: #7367f00f;
+  color: #000;
+  border-color: #efe8e8;
+  border-bottom: 3px solid rgb(23, 74, 231);
+  .textColor {
+    color: rgb(23, 74, 231);
+  }
+  .number {
+    color: rgb(23, 74, 231);
+  }
+}
+
+.borderBothSide {
+  border-top: 1px solid #d8d9e2;
+  border-bottom: 1px solid #d8d9e2;
+}
+
+.headerPart .nav-item .nav-link {
+  box-shadow: none !important;
+  display: inline-block !important;
+  padding: 30px 40px !important;
+}
+.submitBtnStyle button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: #9196b6;
+  box-shadow: none;
+}
+button.btnsStyles {
+  position: relative;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  padding: 12px;
+  cursor: pointer;
+}
+.threeDot {
+  cursor: pointer;
+  background-color: transparent;
+  color: #9196b6;
+}
+.buttonsRight {
+  display: flex;
+  justify-content: space-between;
+  width: 140px;
+  float: right;
+}

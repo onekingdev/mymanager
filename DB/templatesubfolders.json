@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "6205ee47b42a5d532f84c69c" }, "subFolderName" : "z", "__v" : 0 },
+{ "_id" : { "$oid" : "61fa0f2e1a3b735a68a05df0" }, "subFolderName" : "sub three", "__v" : 0 },
+{ "_id" : { "$oid" : "6423946cd32006fd55754271" }, "subFolderName" : "test+1", "userId" : { "$oid" : "63e46f6673473f895555d907" }, "__v" : 0, "template" : [ { "$oid" : "6423f24d6a07f3e0a58dd7de" } ] },
+{ "_id" : { "$oid" : "642409bb42bfa21b24849f95" }, "subFolderName" : "sub1", "template" : [  ], "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "__v" : 0 }
+]

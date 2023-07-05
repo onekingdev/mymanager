@@ -1,0 +1,5 @@
+[
+{ "_id" : { "$oid" : "63dc6f76db74967e72476c20" }, "name" : "63dc6f76db74967e72476c1d-[SEND_MAIL]", "data" : null, "priority" : 0, "shouldSaveResult" : false, "type" : "normal", "nextRunAt" : null, "lastModifiedBy" : null, "lockedAt" : null, "lastRunAt" : { "$date" : "2023-02-03T02:29:16.246+0000" }, "lastFinishedAt" : { "$date" : "2023-02-03T02:29:16.340+0000" } },
+{ "_id" : { "$oid" : "645d7935a7b480d735da60b3" }, "name" : "645d7935a7b480d735da60b1-[SEND_MAIL]", "data" : null, "priority" : 0, "shouldSaveResult" : false, "type" : "normal", "nextRunAt" : null, "lastModifiedBy" : null, "lockedAt" : null, "lastRunAt" : { "$date" : "2023-05-11T23:24:40.154+0000" }, "lastFinishedAt" : { "$date" : "2023-05-11T23:24:40.782+0000" } },
+{ "_id" : { "$oid" : "645d7950a7b480d735da60cf" }, "name" : "645d7950a7b480d735da60cd-[SEND_MAIL]", "data" : null, "priority" : 0, "shouldSaveResult" : false, "type" : "normal", "nextRunAt" : null, "lastModifiedBy" : null, "lockedAt" : null, "lastRunAt" : { "$date" : "2023-05-11T23:25:05.550+0000" }, "lastFinishedAt" : { "$date" : "2023-05-11T23:25:06.212+0000" } }
+]

@@ -1,0 +1,74 @@
+.dashboard-dropdown {
+  padding: 0.571rem 1rem 0.571rem 1rem;
+  background-color: #49323200;
+  background-repeat: no-repeat;
+  background-size: 15px 14px;
+  border: 1px solid #d8d6de00;
+  border-radius: 0.357rem;
+  /* color: #fff; */
+}
+
+.dashbard-notification > .dVgdrY > .sc-fzoiQi > .rdt_Table > .rdt_TableHead > .fvxlqO {
+  background: #f3f2f7;
+  min-height: 40px !important;
+}
+
+.progress-bar-dashboard > div > div {
+  width: 80% !important;
+}
+.dashbard-notification {
+  overflow: scroll;
+  height: 45vh;
+}
+.dashbard-notification::-webkit-scrollbar {
+  display: none;
+}
+.dashbard-notification > .dVgdrY {
+  overflow-x: hidden !important;
+}
+.dashboard-table:not(.table-dark):not(.table-light) thead:not(.table-dark) th,
+.dashboard-table:not(.table-dark):not(.table-light) tfoot:not(.table-dark) th {
+  background-color: #ffffff;
+}
+.dashboard-earning-tab > .nav-link:after {
+  left: 0;
+  background: #fff !important;
+}
+.dashboard-select-container{
+  width: 150px !important;
+}
+
+.dashboard-select-container > .react-select__control > .css-1hb7zxy-IndicatorsContainer{
+  display: none;
+}
+
+.dashboard-table > :not(caption) > * > * {
+  border-bottom-width: 0px;
+}
+.dashboard-table-icons > svg {
+  margin: 5px;
+}
+.dashboard-table-button > button {
+  margin: 5px;
+}
+.my-goal > button {
+  background-color: transparent !important;
+  box-shadow: none;
+  border: none;
+}
+.my-goal > .btn-secondary:focus {
+  background-color: transparent !important;
+}
+.my-goal > button > svg {
+  color: #686868;
+}
+.upcoming-event {
+  overflow: scroll;
+  margin-bottom: 10px;
+}
+.upcoming-event::-webkit-scrollbar {
+  display: none;
+}
+.dashboard-timeline > .timeline > .timeline-item:not(:last-child){
+  padding-bottom: 0 !important;
+}

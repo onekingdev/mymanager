@@ -1,0 +1,4 @@
+[
+{ "_id" : { "$oid" : "642ac93a30e2a76e9fbd56aa" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "employeeId" : { "$oid" : "63fbbf75cb7a1a7695c63143" }, "start" : "05:14", "end" : "20:47", "actualStart" : { "$date" : "2023-04-03T12:40:24.651+0000" }, "createdAt" : { "$date" : "2023-04-03T12:40:26.383+0000" }, "updatedAt" : { "$date" : "2023-04-03T12:40:26.383+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "642acc5230e2a76e9fbd5ab7" }, "userId" : { "$oid" : "6394e22877a382e42b5302a9" }, "employeeId" : { "$oid" : "640a0dff6f5567e29836e6e3" }, "start" : "05:14", "end" : "20:47", "actualStart" : { "$date" : "2023-04-03T12:53:36.442+0000" }, "createdAt" : { "$date" : "2023-04-03T12:53:38.137+0000" }, "updatedAt" : { "$date" : "2023-04-03T12:53:38.137+0000" }, "__v" : 0 }
+]

@@ -1,0 +1,9 @@
+[
+{ "_id" : { "$oid" : "6409bd3de193e33a75725d3f" }, "name" : "Lead", "createdAt" : { "$date" : "2023-03-09T11:04:29.194+0000" }, "updatedAt" : { "$date" : "2023-03-09T11:04:29.194+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6409bd4de193e33a75725d41" }, "name" : "Purchase", "createdAt" : { "$date" : "2023-03-09T11:04:45.008+0000" }, "updatedAt" : { "$date" : "2023-03-09T11:04:45.008+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6409bd6ae193e33a75725d43" }, "name" : "Schedule", "createdAt" : { "$date" : "2023-03-09T11:05:14.299+0000" }, "updatedAt" : { "$date" : "2023-03-09T11:05:14.299+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6409bd87e193e33a75725d45" }, "name" : "Subscribe", "createdAt" : { "$date" : "2023-03-09T11:05:43.841+0000" }, "updatedAt" : { "$date" : "2023-03-09T11:05:43.841+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6409bd9ae193e33a75725d47" }, "name" : "Start Trial", "createdAt" : { "$date" : "2023-03-09T11:06:02.762+0000" }, "updatedAt" : { "$date" : "2023-03-09T11:06:02.762+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6409bdb1e193e33a75725d49" }, "name" : "View Content", "createdAt" : { "$date" : "2023-03-09T11:06:25.189+0000" }, "updatedAt" : { "$date" : "2023-03-09T11:06:25.189+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "6409bdcde193e33a75725d4b" }, "name" : "Complete Registration", "createdAt" : { "$date" : "2023-03-09T11:06:53.331+0000" }, "updatedAt" : { "$date" : "2023-03-09T11:06:53.331+0000" }, "__v" : 0 }
+]

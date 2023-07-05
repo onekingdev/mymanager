@@ -1,0 +1,7 @@
+[
+{ "_id" : { "$oid" : "6392389d60f1f2ddda011218" }, "userId" : { "$oid" : "6356eac742c33b8ec40d79e1" }, "position" : "test", "isDelete" : false, "createdAt" : { "$date" : "2022-12-08T19:18:53.456+0000" }, "updatedAt" : { "$date" : "2022-12-08T19:18:53.456+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "63937824c333f3c3acd5f03e" }, "userId" : { "$oid" : "638b0d6142c33b8ec40d833f" }, "position" : "New", "isDelete" : false, "createdAt" : { "$date" : "2022-12-09T18:02:12.293+0000" }, "updatedAt" : { "$date" : "2022-12-09T18:02:12.293+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "63a0f356d066313e0e1c94ed" }, "userId" : { "$oid" : "6394e33f77a382e42b5302d7" }, "position" : "Manager", "isDelete" : false, "createdAt" : { "$date" : "2022-12-19T23:27:18.329+0000" }, "updatedAt" : { "$date" : "2022-12-19T23:27:18.329+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "63c9441f6ea0fb63d9a1774e" }, "userId" : { "$oid" : "63c90ede6ea0fb63d9a16dd6" }, "position" : "user", "isDelete" : false, "createdAt" : { "$date" : "2023-01-19T13:22:39.286+0000" }, "updatedAt" : { "$date" : "2023-01-19T13:22:39.286+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "641c443aeea9f17fccbda744" }, "userId" : { "$oid" : "63d8f4c37b1df85f745d17e7" }, "position" : "engineer", "isDelete" : false, "createdAt" : { "$date" : "2023-03-23T12:21:14.316+0000" }, "updatedAt" : { "$date" : "2023-03-23T12:21:14.316+0000" }, "__v" : 0 }
+]

@@ -1,0 +1,4 @@
+[
+{ "_id" : { "$oid" : "642075a1a9f09c024b9d1088" }, "userId" : { "$oid" : "63f241fa2a66399d4c4b4d63" }, "position" : "ghfghfhg", "createdAt" : { "$date" : "2023-03-26T16:41:05.624+0000" }, "updatedAt" : { "$date" : "2023-03-26T16:41:05.624+0000" }, "__v" : 0 },
+{ "_id" : { "$oid" : "64207603a9f09c024b9d117a" }, "userId" : { "$oid" : "63f241fa2a66399d4c4b4d63" }, "position" : "Front end developer", "createdAt" : { "$date" : "2023-03-26T16:42:43.595+0000" }, "updatedAt" : { "$date" : "2023-03-26T16:42:43.595+0000" }, "__v" : 0 }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <circle id="Oval_Copy_52" data-name="Oval Copy 52" cx="249.438" cy="250" r="248.676" fill="#b50000" style=""/>
+  <g id="Icons-/-Automation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="matrix(12.215268, -0.129459, 0.129459, 12.215268, 119.906158, 116.714958)" style="">
+    <g id="Automation" transform="translate(2.000000, 2.000000)" stroke="#FFFFFF" stroke-width="2">
+      <circle id="Oval" fill-rule="nonzero" cx="10.5" cy="2.5" r="2.5"/>
+      <line x1="13" y1="4" x2="16.9998" y2="4" id="Path" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline id="Path" stroke-linecap="round" stroke-linejoin="round" points="4.75327295 6.97589163 7.58638 8 17 8"/>
+      <polyline id="Path" stroke-linecap="round" stroke-linejoin="round" points="5 13.1104056 7.44956 12 17 12"/>
+      <circle id="Oval" fill-rule="nonzero" cx="2.5" cy="5.5" r="2.5"/>
+      <circle id="Oval" fill-rule="nonzero" cx="2.5" cy="14.5" r="2.5"/>
+    </g>
+  </g>
+</svg>
